@@ -9,7 +9,7 @@ body {
     text-align: center;
     font-family: 'Vampiro One', cursive;
     font-size: calc((100vw - 320px) / (1280 - 320) * (96 - 64) + 64px);
-    margin: 0 0 0.25em 0;
+    margin: 0 0.25em 0.25em 0.25em;
 }
 
 .items {
@@ -19,6 +19,12 @@ body {
     margin: 16px auto;
     padding: 0 16px;
     max-width: 1920px;
+}
+
+@media (max-width: 352px) {
+    .items {
+        padding: 0;
+    }
 }
 
 .item {
