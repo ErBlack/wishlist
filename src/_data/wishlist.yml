@@ -10,7 +10,7 @@ items:
       src: src/img/hub-clip.jpg
     - link: https://alpakagear.com/products/zip-pouch-black?avad=230045_c242e0421
       name: Zip Pouch Black
-      src: src/img/zip-pouch-black.jpg
+      src: src/img/zip-pouch-black.png
     - link: https://store.steampowered.com/steamdeck
       name: Steam Deck
       src: src/img/steam-deck.jpg
