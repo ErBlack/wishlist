@@ -101,3 +101,6 @@ items:
     - link: https://kulturazanosa.ru/podarok
       name: '#культуразаноса'
       src: src/img/кulturazanosa.png
+    - link: https://www.logitech.com/ru-ru/products/personal-workspaces/logi-dock.html
+      name: Logi Dock
+      src: src/img/logi-dock.png
