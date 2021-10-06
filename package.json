@@ -1,0 +1,22 @@
+{
+  "name": "wishlist",
+  "version": "0.0.0",
+  "description": "My wishlist",
+  "main": "index.js",
+  "scripts": {
+    "prebuild": "rm -rf build",
+    "start": "npm run build -- --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ErBlack/wishlist.git"
+  },
+  "author": "ErBlack",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "prettier": "^2.4.1",
+    "yaml": "^1.10.2"
+  }
+}

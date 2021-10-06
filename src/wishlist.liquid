@@ -1,0 +1,11 @@
+---
+layout: page.liquid
+---
+<main class="items">
+  {% for item in wishlist.items %}
+  <a href="{{ item.link }}" class="item">
+    <img class="image" src="{{ item.src }}">
+    <h2 class="name">{{ item.name }}</h2>
+  </a>
+  {% endfor %}
+</main>
