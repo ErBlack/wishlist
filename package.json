@@ -4,7 +4,7 @@
   "description": "My wishlist",
   "main": "index.js",
   "scripts": {
-    "prebuild": "rm -rf build",
+    "prebuild": "rm -rf dist",
     "start": "npm run build -- --serve",
     "build": "npx @11ty/eleventy"
   },
@@ -16,6 +16,7 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-img": "^0.10.0",
     "prettier": "^2.4.1",
     "yaml": "^1.10.2"
   }

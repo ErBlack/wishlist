@@ -3,8 +3,13 @@ layout: page.liquid
 ---
 <main class="items">
   {% for item in wishlist.items %}
+  {% assign external = item.src | isUrl %}
   <a href="{{ item.link }}" class="item">
-    <img class="image" src="{{ item.src }}">
+    {% if external %}
+      <img class="image" src="{{ item.src }}" alt="{{ item.name }}">
+    {% else %}
+      {% image item.src, item.name, "image" %}
+    {% endif %}
     <h2 class="name">{{ item.name }}</h2>
   </a>
   {% endfor %}
