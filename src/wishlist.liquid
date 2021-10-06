@@ -10,7 +10,10 @@ layout: page.liquid
     {% else %}
       {% image item.src, item.name, "image" %}
     {% endif %}
-    <h2 class="name">{{ item.name }}</h2>
+    <section class="description">
+      <h2 class="name">{{ item.name }}</h2>
+      <p class="host">{{ item.link | host }}</p>
+    </section>
   </a>
   {% endfor %}
 </main>

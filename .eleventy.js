@@ -17,6 +17,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addDataExtension('yml', contents => yaml.parse(contents));
     eleventyConfig.addPassthroughCopy('wishlist');
     eleventyConfig.addLiquidFilter('isUrl', value => String(value).indexOf('http') === 0);
+    eleventyConfig.addLiquidFilter('host', value => new URL(value).host);
     eleventyConfig.addLiquidShortcode('image', imageShortcode);
 
     return {

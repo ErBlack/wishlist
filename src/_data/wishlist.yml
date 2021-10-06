@@ -46,7 +46,7 @@ items:
       src: src/img/canon-zoemini.jpg
     - link: https://www.logitech.com/en-us/products/mice/mx-anywhere-3.910-005985.html
       name: MX Anywhere 3
-      src: src/img/mx-anywhere-3.webp
+      src: src/img/mx-anywhere-3.png
     - link: https://www.peakdesign.com/products/shoe-pouch/
       name: Shoe Pouch
       src: src/img/shoe-pouch.jpg
