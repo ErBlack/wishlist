@@ -5,6 +5,13 @@ body {
     font-weight: 300;
 }
 
+.heading {
+    text-align: center;
+    font-family: 'Vampiro One', cursive;
+    font-size: calc((100vw - 320px) / (1280 - 320) * (96 - 64) + 64px);
+    margin: 0 0 0.25em 0;
+}
+
 .items {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));

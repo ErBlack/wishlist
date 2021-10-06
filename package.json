@@ -6,7 +6,9 @@
   "scripts": {
     "prebuild": "rm -rf dist",
     "start": "npm run build -- --serve",
-    "build": "npx @11ty/eleventy"
+    "build": "npx @11ty/eleventy",
+    "postversion": "npm run build && npm run publish && git push && git push --tags",
+    "publish": "ghpages -p dist/wishlist"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-img": "^0.10.0",
+    "ghpages": "0.0.10",
     "prettier": "^2.4.1",
     "yaml": "^1.10.2"
   }
