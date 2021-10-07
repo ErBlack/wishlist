@@ -9,7 +9,7 @@
     "build": "npx @11ty/eleventy",
     "postversion": "npm run build && npm run publish && git push && git push --tags",
     "publish": "ghpages -p dist/wishlist",
-    "retrive": "node scripts/retrieve-images.js"
+    "retrieve": "node scripts/retrieve-images.js"
   },
   "repository": {
     "type": "git",
