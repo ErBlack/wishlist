@@ -15,11 +15,11 @@ async function imageShortcode(src, alt, className) {
 
 async function srcShortcode(src) {
     const {
-        webp: [{ url }],
+        jpeg: [{ url }],
     } = await Image(src, {
         outputDir: 'dist/wishlist/img',
         widths: [512],
-        formats: ['webp'],
+        formats: ['jpeg'],
     });
 
     return url;
