@@ -10,7 +10,19 @@ async function imageShortcode(src, alt, className) {
         formats: ['webp'],
     });
 
-    return `<img class="${className}" src="/wishlist/${data.url}" alt="${alt}" loading="lazy" decoding="async">`;
+    return `<img class="${className}" src="/wishlist${data.url}" alt="${alt}" loading="lazy" decoding="async">`;
+}
+
+async function srcShortcode(src) {
+    const {
+        webp: [{ url }],
+    } = await Image(src, {
+        outputDir: 'dist/wishlist/img',
+        widths: [512],
+        formats: ['webp'],
+    });
+
+    return url;
 }
 
 module.exports = function (eleventyConfig) {
@@ -19,6 +31,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addLiquidFilter('isUrl', value => String(value).indexOf('http') === 0);
     eleventyConfig.addLiquidFilter('host', value => new URL(value).host);
     eleventyConfig.addLiquidShortcode('image', imageShortcode);
+    eleventyConfig.addLiquidShortcode('src', srcShortcode);
 
     return {
         dir: {
