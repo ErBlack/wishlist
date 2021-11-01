@@ -1,4 +1,8 @@
 items:
+    - link: https://www.dji.com/ru/mic
+      realized: false
+      name: Mic
+      src: src/img/dji-mic.png
     - link: https://www.orbitkey.eu/collections/orbitkey-nest/products/orbitkey-nest?variant=32546115190880
       realized: false
       name: Orbitkey Nest
