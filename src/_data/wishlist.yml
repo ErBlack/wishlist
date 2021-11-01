@@ -48,7 +48,7 @@ items:
       name: Osuza Canvas
       src: src/img/osuza-canvas.jpg
     - link: https://www.nintendo.ru/-Nintendo-Switch/Nintendo-Switch-OLED-/Nintendo-Switch-OLED--2000984.html
-      realized: false
+      realized: true
       name: Nintendo Switch Oled
       src: src/img/nintendo-switch-oled.png
     - link: https://www.dji.com/mavic-air-2
