@@ -152,6 +152,6 @@ items:
       name: LiNing Wade Essence Ace 41,5
       src: src/img/lining-wade-essence-ace-41,5.jpg
     - link: https://market.yandex.ru/product--shtativ-joby-gorillapod-1k-stand/1967965514
-      realized: false
+      realized: true
       name: GorillaPod 1K Stand
       src: src/img/gorillapod-1k-stand.jpg
