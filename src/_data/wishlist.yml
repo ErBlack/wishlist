@@ -12,11 +12,11 @@ items:
       name: Osmo Pocket 2
       src: src/img/osmo-pocket-2.jpg
     - link: https://alpakagear.com/products/hub-clip
-      realized: false
+      realized: true
       name: Hub Clip
       src: src/img/hub-clip.jpg
     - link: https://alpakagear.com/products/zip-pouch-black?avad=230045_c242e0421
-      realized: false
+      realized: true
       name: Zip Pouch Black
       src: src/img/zip-pouch-black.png
     - link: https://store.steampowered.com/steamdeck
@@ -32,7 +32,7 @@ items:
       name: Metroid Dread
       src: src/img/metroid-dread.jpg
     - link: https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/
-      realized: false
+      realized: true
       name: 'Game & Watch: The Legend of Zelda'
       src: src/img/game-&-watch-the-legend-of-zelda.jpg
     - link: https://esprado.com/catalog/detail/chdt26be103-skovoroda-26545-aluminij-ap-indukcia-chedar-es
@@ -68,11 +68,11 @@ items:
       name: MX Anywhere 3
       src: src/img/mx-anywhere-3.png
     - link: https://www.peakdesign.com/products/shoe-pouch/
-      realized: false
+      realized: true
       name: Shoe Pouch
       src: src/img/shoe-pouch.jpg
     - link: https://www.oculus.com/quest-2/
-      realized: false
+      realized: true
       name: Oculus Quest 2
       src: src/img/oculus-quest-2.jpg
     - link: https://ulioandjack.com/products/explorer
