@@ -1,4 +1,8 @@
 items:
+    - link: https://store.analogue.co/
+      realized: false
+      name: Analogue Pocket
+      src: src/img/analogue-pocket.png
     - link: https://www.dji.com/ru/mic
       realized: false
       name: Mic
