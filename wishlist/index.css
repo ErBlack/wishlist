@@ -33,8 +33,6 @@ body {
     transition: color 0.1s ease-in-out, transform 0.2s ease-out, box-shadow 0.2s ease-out;
     cursor: pointer;
     border-radius: 16px;
-    padding-top: calc(100% - 16px);
-    position: relative;
 }
 
 .item:hover {
@@ -43,12 +41,20 @@ body {
     box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.1);
 }
 
+.frame {
+    padding-top: 100%;
+    position: relative;
+}
+
 .image {
-    width: calc(100% - 32px);
+    margin: auto;
     position: absolute;
     left: 16px;
     top: 16px;
     right: 16px;
+    bottom: 16px;
+    max-width: calc(100% - 32px);
+    max-height: calc(100% - 32px);
 }
 
 .description {

@@ -7,11 +7,13 @@ layout: page.liquid
     {% if item.realized != true %}
       {% assign external = item.src | isUrl %}
       <a href="{{ item.link }}" class="item">
-        {% if external %}
-          <img class="image" src="{{ item.src }}" alt="{{ item.name }}">
-        {% else %}
-          {% image item.src, item.name, "image" %}
-        {% endif %}
+        <div class="frame">
+          {% if external %}
+            <img class="image" src="{{ item.src }}" alt="{{ item.name }}">
+          {% else %}
+            {% image item.src, item.name, "image" %}
+          {% endif %}
+        </div>
         <section class="description">
           <h2 class="name">{{ item.name }}</h2>
           <p class="host">{{ item.link | host }}</p>
