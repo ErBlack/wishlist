@@ -1,6 +1,6 @@
 {
   "name": "wishlist",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "description": "My wishlist",
   "main": "index.js",
   "scripts": {
