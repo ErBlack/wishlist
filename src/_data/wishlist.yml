@@ -111,6 +111,14 @@ items:
     realized: false
     name: Nixon Regulus
     src: src/img/nixon-regulus.jpg
+  - link: https://retrogames.biz/products/thea500-mini/
+    realized: false
+    name: THEA500 Mini
+    src: src/img/thea500-mini.jpg
+  - link: https://retrogames.biz/products/thec64-mini/
+    realized: false
+    name: THEC64 Mini
+    src: src/img/thec64-mini.jpg
   - link: https://www.amazon.co.uk/dp/B07SLM7N9J
     realized: false
     name: PC Engine CoreGrafx Mini
