@@ -1,4 +1,8 @@
 items:
+  - link: https://www.helix.ca/index.asp
+    realized: false
+    name: Helix
+    src: src/img/helix.jpg
   - link: https://lunasandals.com/products/mono-winged-edition
     realized: false
     name: Mono Winged Edition
@@ -187,3 +191,27 @@ items:
     realized: true
     name: nanopresso
     src: src/img/nanopresso.png
+  - link: https://myheroclip.com/products/heroclip-medium?variant=29620870447169
+    realized: true
+    name: Heroclip
+    src: src/img/heroclip.jpg
+  - link: https://www.samsung.com/ru/memory-storage/portable-ssd/portable-ssd-t5-2tb-black-mu-pa2t0b-ww/
+    realized: true
+    name: Samsung T5
+    src: src/img/samsung-t5.jpg
+  - link: https://www.codeofbell.com/products/x-pod-sling-pack
+    realized: true
+    name: X-POD
+    src: src/img/x-pod.png
+  - link: https://www.logitech.com/ru-ru/products/keyboards/mx-keys-wireless-keyboard.html
+    realized: true
+    name: MX Keys
+    src: src/img/mx-keys.webp
+  - link: https://www.wacom.com/ru-ru/products/smartpads/bamboo-slate-and-bamboo-folio
+    realized: true
+    name: Bamboo Slate
+    src: src/img/bamboo-slate.jpg
+  - link: https://thejamesbrand.com/stories/the-elko
+    realized: true
+    name: Elko
+    src: src/img/elko.jpeg
