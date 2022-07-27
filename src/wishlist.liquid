@@ -1,24 +1,6 @@
 ---
-layout: page.liquid
+title: Wishlist
+description: ErBlack's wishlist
+layout: list.liquid
+filter: wanted
 ---
-<h1 class="heading">{{ title }}</h1>
-<main class="items">
-  {% for item in wishlist.items %}
-    {% if item.realized != true %}
-      {% assign external = item.src | isUrl %}
-      <a href="{{ item.link }}" class="item">
-        <div class="frame">
-          {% if external %}
-            <img class="image" src="{{ item.src }}" alt="{{ item.name }}">
-          {% else %}
-            {% image item.src, item.name, "image" %}
-          {% endif %}
-        </div>
-        <section class="description">
-          <h2 class="name">{{ item.name }}</h2>
-          <p class="host">{{ item.link | host }}</p>
-        </section>
-      </a>
-    {% endif %}
-  {% endfor %}
-</main>

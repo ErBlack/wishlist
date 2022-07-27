@@ -30,6 +30,9 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy('wishlist');
     eleventyConfig.addLiquidFilter('isUrl', value => String(value).indexOf('http') === 0);
     eleventyConfig.addLiquidFilter('host', value => new URL(value).host);
+    eleventyConfig.addLiquidFilter('filterWanted', (items, type) =>
+        items.filter(({ realized }) => (type !== 'wanted' ? realized : !realized))
+    );
     eleventyConfig.addLiquidShortcode('image', imageShortcode);
     eleventyConfig.addLiquidShortcode('src', srcShortcode);
 
