@@ -183,3 +183,7 @@ items:
     realized: true
     name: GorillaPod 1K Stand
     src: src/img/gorillapod-1k-stand.jpg
+  - link: https://www.wacaco.com/pages/nanopresso
+    realized: true
+    name: nanopresso
+    src: src/img/nanopresso.png

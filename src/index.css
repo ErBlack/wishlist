@@ -12,6 +12,14 @@ body {
     margin: 0 0.25em 0.25em 0.25em;
 }
 
+.switch {
+    color: #000;
+}
+
+.switch:not(:hover) {
+    text-decoration: none;
+}
+
 .items {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));

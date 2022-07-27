@@ -27,7 +27,7 @@ async function srcShortcode(src) {
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.addDataExtension('yml', contents => yaml.parse(contents));
-    eleventyConfig.addPassthroughCopy('wishlist');
+    eleventyConfig.addPassthroughCopy('src/index.css');
     eleventyConfig.addLiquidFilter('isUrl', value => String(value).indexOf('http') === 0);
     eleventyConfig.addLiquidFilter('host', value => new URL(value).host);
     eleventyConfig.addLiquidFilter('filterWanted', (items, type) =>
@@ -39,8 +39,13 @@ module.exports = function (eleventyConfig) {
     return {
         dir: {
             input: 'src',
-            output: 'dist',
+            output: 'dist/wishlist',
         },
         passthroughFileCopy: true,
+        browserSyncConfig: {
+            server: {
+                baseDir: 'dist',
+            },
+        },
     };
 };
