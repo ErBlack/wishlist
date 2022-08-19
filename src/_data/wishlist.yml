@@ -3,10 +3,10 @@ items:
     realized: true
     name: Secrid Miniwallet
     src: src/img/secrid-miniwallet.png
-  - link: https://www.dji.com/air-2s
+  - link: https://www.dji.com/mini-3-pro
     realized: false
-    name: Mavic Air 2S
-    src: src/img/mavic-air-2s.jpg
+    name: Mini 3 Pro
+    src: src/img/mini-3-pro.jpg
   - link: https://www.goretroid.com/collections/frontpage/products/retroid-pocket-2-plus-handheld-retro-gaming-system
     realized: false
     name: Retroid Pocket 2+
