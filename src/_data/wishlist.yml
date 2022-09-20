@@ -1,4 +1,12 @@
 items:
+  - link: https://www.apple.com/iphone-14-pro/
+    realized: false
+    name: iPhone 14 Pro
+    src: src/img/iphone-14-pro.jpg
+  - link: https://www.apple.com/apple-watch-ultra/
+    realized: false
+    name: Apple Watch Ultra
+    src: src/img/apple-watch-ultra.jpg
   - link: https://secrid.com/en-global/miniwallet-perforated-black
     realized: true
     name: Secrid Miniwallet
