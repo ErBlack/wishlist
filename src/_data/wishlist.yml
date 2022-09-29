@@ -1,12 +1,12 @@
 items:
+  - link: https://www.suunto.com/Products/sports-watches/suunto-9-peak/suunto-9-peak-full-titanium-black/
+    realized: false
+    name: Suunto 9 Peak Titanium
+    src: src/img/suunto-9-peak-titanium.png
   - link: https://www.apple.com/iphone-14-pro/
     realized: false
     name: iPhone 14 Pro
     src: src/img/iphone-14-pro.jpg
-  - link: https://www.apple.com/apple-watch-ultra/
-    realized: false
-    name: Apple Watch Ultra
-    src: src/img/apple-watch-ultra.jpg
   - link: https://secrid.com/en-global/miniwallet-perforated-black
     realized: true
     name: Secrid Miniwallet
@@ -91,10 +91,6 @@ items:
     realized: true
     name: Nintendo Switch Oled
     src: src/img/nintendo-switch-oled.png
-  - link: https://www.suunto.com/ru-ru/Products/sports-watches/suunto-9-baro/suunto-9-baro-titanium/
-    realized: false
-    name: Suunto 9 Baro Titatium
-    src: src/img/suunto-9-baro-titatium.png
   - link: https://market.yandex.ru/product--printer-canon-zoemini/240336060?text=Zoemini&utm_source=my_goods&cpa=1
     realized: true
     name: Canon Zoemini
