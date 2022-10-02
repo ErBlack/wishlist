@@ -1,6 +1,6 @@
 items:
     - link: https://www.suunto.com/Products/sports-watches/suunto-9-peak/suunto-9-peak-full-titanium-black/
-      realized: false
+      realized: true
       name: Suunto 9 Peak Titanium
       src: src/img/suunto-9-peak-titanium.png
     - link: https://www.apple.com/iphone-14-pro/
