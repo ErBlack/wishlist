@@ -23,6 +23,10 @@ items:
       realized: false
       name: Marshall Willen
       src: src/img/marshall-willen.png
+    - link: https://www.logitech.com/ru-ru/products/personal-workspaces/logi-dock.html
+      realized: false
+      name: Logi Dock
+      src: src/img/logi-dock.png
     - link: https://www.goretroid.com/collections/frontpage/products/retroid-pocket-2-plus-handheld-retro-gaming-system
       realized: false
       name: Retroid Pocket 2+
@@ -187,10 +191,6 @@ items:
       realized: true
       name: '#культуразаноса'
       src: src/img/кulturazanosa.png
-    - link: https://www.logitech.com/ru-ru/products/personal-workspaces/logi-dock.html
-      realized: false
-      name: Logi Dock
-      src: src/img/logi-dock.png
     - link: https://outlery.com/products/outlery-set?utm_source=pocket_mylist&variant=31700248199257
       realized: false
       name: Outlery Full Set
