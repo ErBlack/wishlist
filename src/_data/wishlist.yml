@@ -12,7 +12,7 @@ items:
       name: Secrid Miniwallet
       src: src/img/secrid-miniwallet.png
     - link: https://www.dji.com/mini-3-pro
-      realized: false
+      realized: true
       name: Mini 3 Pro
       src: src/img/mini-3-pro.jpg
     - link: https://market.yandex.ru/product/1657508201
