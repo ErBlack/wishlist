@@ -8,17 +8,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-        - uses: actions/checkout@v3
+        uses: actions/checkout@v3
       - name: node
-        - uses: actions/setup-node@v3
-          with:
-            node-version: "14.x"
-            cache: 'npm'
+        uses: actions/setup-node@v3
+        with:
+          node-version: "14.x"
+          cache: 'npm'
       - name: build
-          run: npm ci
-          run: npm run build
+        run: npm ci
+        run: npm run build
       - name: deploy
-          uses: peaceiris/actions-gh-pages@v3
-          with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-            publish_dir: ./dist/wishlist
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist/wishlist
