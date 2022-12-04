@@ -14,8 +14,4 @@ jobs:
                   cache: 'npm'
             - run: npm ci
             - run: npm run build
-            - name: publish
-              uses: peaceiris/actions-gh-pages@v3
-              with:
-                  github_token: ${{ secrets.GITHUB_TOKEN }}
-                  publish_dir: ./dist/wishlist
+            - run: npm run publish
