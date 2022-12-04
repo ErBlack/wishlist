@@ -35,6 +35,10 @@ items:
       realized: false
       name: Helix
       src: src/img/helix.jpg
+    - link: https://ember.com/products/ember-mug-2?variant=30843977760853
+      realized: false
+      name: Ember Mug²
+      src: src/img/ember-mug².jpg
     - link: https://lunasandals.com/products/mono-winged-edition
       realized: false
       name: Mono Winged Edition
@@ -95,7 +99,7 @@ items:
       realized: true
       name: Nomatic Vacuum Bag 2.0
       src: src/img/nomatic-vacuum-bag-2.0.jpg
-    - link: https://www.osuza.com/product/osuza-canvas
+    - link: https://osuza.com/collections/featured/products/osuza-canvas-v2
       realized: false
       name: Osuza Canvas
       src: src/img/osuza-canvas.jpg
@@ -163,10 +167,6 @@ items:
       realized: false
       name: Pocket Tripod
       src: src/img/pocket-tripod.jpg
-    - link: https://www.picogear.com/store/pg-kit2/
-      realized: false
-      name: PicoMic 2
-      src: src/img/picomic-2.png
     - link: https://distilunion.com/products/maglock-sunglasses-folly?variant=39240676689
       realized: false
       name: Folly Sunglasses
