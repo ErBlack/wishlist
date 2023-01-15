@@ -1,4 +1,8 @@
 items:
+  - link: https://www.genkithings.com/products/covert-dock-mini?variant=40044404867146
+    realized: false
+    name: Covert Dock Mini
+    src: src/img/covert-dock-mini.png
   - link: https://ggrip.com/
     realized: false
     name: GGrip
@@ -11,6 +15,10 @@ items:
     realized: true
     name: iPhone 14 Pro
     src: src/img/iphone-14-pro.jpg
+  - link: https://evergoods.us/products/civic-access-pouch-2l
+    realized: false
+    name: Civic Access Pouch 2L
+    src: src/img/civic-access-pouch-2l.jpg
   - link: https://secrid.com/en-global/miniwallet-perforated-black
     realized: true
     name: Secrid Miniwallet
@@ -80,9 +88,13 @@ items:
     name: Zip Pouch Black
     src: src/img/zip-pouch-black.png
   - link: https://store.steampowered.com/steamdeck
-    realized: false
+    realized: true
     name: Steam Deck
     src: src/img/steam-deck.jpg
+  - link: https://www.steamdeck.com/dock
+    realized: false
+    name: Steam Deck Dock
+    src: src/img/steam-deck-dock.jpg
   - link: https://market.yandex.ru/product--karta-pamiati-256-gb-micro-sdxc-sandisk-nintendo-switch-class-10-uhs-i-c10-u3-sdsqxao-256g-gnczn/1395444550
     realized: true
     name: SanDisk Nintendo Switch 256 Gb
@@ -148,7 +160,7 @@ items:
     name: Nixon Regulus
     src: src/img/nixon-regulus.jpg
   - link: https://retrogames.biz/products/thea500-mini/
-    realized: false
+    realized: true
     name: THEA500 Mini
     src: src/img/thea500-mini.jpg
   - link: https://retrogames.biz/products/thec64-mini/

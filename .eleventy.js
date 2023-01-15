@@ -31,7 +31,16 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addLiquidFilter('isUrl', value => String(value).indexOf('http') === 0);
     eleventyConfig.addLiquidFilter('host', value => new URL(value).host);
     eleventyConfig.addLiquidFilter('filterWanted', (items, type) =>
-        items.filter(({ realized }) => (type !== 'wanted' ? realized : !realized))
+        items.filter(({ realized }) => {
+            switch (type) {
+                case 'wanted':
+                    return !realized;
+                case 'realized':
+                    return realized;
+                default:
+                    return true;
+            }
+        })
     );
     eleventyConfig.addLiquidShortcode('image', imageShortcode);
     eleventyConfig.addLiquidShortcode('src', srcShortcode);
