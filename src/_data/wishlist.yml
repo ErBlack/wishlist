@@ -15,6 +15,10 @@ items:
       realized: false
       name: GGrip
       src: src/img/ggrip.jpg
+    - link: https://www.hypershell.cc/
+      realized: false
+      name: Hypershell
+      src: src/img/hypershell.png
     - link: https://www.suunto.com/Products/sports-watches/suunto-9-peak/suunto-9-peak-full-titanium-black/
       realized: true
       name: Suunto 9 Peak Titanium
@@ -48,7 +52,7 @@ items:
       name: Logi Dock
       src: src/img/logi-dock.png
     - link: https://www.goretroid.com/collections/frontpage/products/retroid-pocket-2-plus-handheld-retro-gaming-system
-      realized: false
+      realized: true
       name: Retroid Pocket 2+
       src: src/img/retroid-pocket-2+.png
     - link: https://www.helix.ca/index.asp
