@@ -15,10 +15,10 @@ eleventyExcludeFromCollections: true
       <height>32</height>
     </image>{% for item in wishlist.items %}
     <item>
-      <title>{{ item.name }}</title>
-      <link>{{ item.link }}</link>
-      <description><a href="{{item.link}}">{{ item.name }}</a></description>
-      <giud>{{item.link}}</giud>
+      <title><![CDATA[{{ item.name }}]]></title>
+      <link><![CDATA[{{item.link}}]]></link>
+      <description><![CDATA[<a href="{{item.link}}">{{ item.name }}</a>]]></description>
+      <giud><![CDATA[{{item.link}}]]></giud>
     </item>{% endfor %}
   </channel>
 </rss>
