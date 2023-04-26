@@ -1,4 +1,8 @@
 items:
+  - link: https://www.playstation.com/en-us/accessories/dualsense-edge-wireless-controller/
+    realized: false
+    name: DualSense Edge
+    src: src/img/dualsense-edge.jpg
   - link: https://rog.asus.com/laptops/rog-flow/rog-flow-z13-acrnm-rmt02/
     realized: false
     name: Rog Flow Z13-ACRNM RMT02

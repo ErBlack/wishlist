@@ -45,16 +45,15 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addLiquidShortcode('image', imageShortcode);
     eleventyConfig.addLiquidShortcode('src', srcShortcode);
 
+    eleventyConfig.setServerOptions({
+        pathPrefix: '/wishlist/',
+    });
+
     return {
         dir: {
             input: 'src',
             output: 'dist/wishlist',
         },
         passthroughFileCopy: true,
-        browserSyncConfig: {
-            server: {
-                baseDir: 'dist',
-            },
-        },
     };
 };

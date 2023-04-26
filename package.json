@@ -2,7 +2,6 @@
   "name": "wishlist",
   "version": "4.1.3",
   "description": "My wishlist",
-  "main": "index.js",
   "scripts": {
     "prebuild": "rm -rf dist",
     "start": "npm run build -- --serve",
@@ -17,10 +16,9 @@
   "author": "ErBlack",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.2",
-    "@11ty/eleventy-img": "^2.0.1",
-    "prettier": "^2.8.0",
-    "yaml": "^2.1.3"
-  },
-  "dependencies": {}
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-img": "^3.1.0",
+    "prettier": "^2.8.8",
+    "yaml": "^2.2.2"
+  }
 }
