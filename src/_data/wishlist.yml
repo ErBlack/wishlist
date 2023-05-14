@@ -1,4 +1,8 @@
 items:
+  - link: https://worklouder.cc/creator-micro/
+    realized: false
+    name: Creator Micro
+    src: src/img/creator-micro.png
   - link: https://www.playstation.com/en-us/accessories/dualsense-edge-wireless-controller/
     realized: false
     name: DualSense Edge
