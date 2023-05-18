@@ -1,4 +1,8 @@
 items:
+  - link: https://flashlight.nitecore.com/product/edc27
+    realized: false
+    name: Nitecore EDC27
+    src: src/img/nitecore-edc27.png
   - link: https://worklouder.cc/creator-micro/
     realized: false
     name: Creator Micro
