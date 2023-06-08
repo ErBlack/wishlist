@@ -1,4 +1,8 @@
 items:
+  - link: https://www.apple.com/apple-vision-pro/
+    realized: false
+    name: Vision
+    src: src/img/vision.jpg
   - link: https://flashlight.nitecore.com/product/edc27
     realized: false
     name: Nitecore EDC27
