@@ -1,8 +1,36 @@
 items:
-    - link: https://www.apple.com/apple-vision-pro/
+    - link: https://pixii.fr/pixii-camera
       realized: false
-      name: Vision
-      src: src/img/vision.png
+      name: Pixii Camera
+      src: src/img/pixii-camera.jpg
+    - link: https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html
+      realized: false
+      name: MX Master 3S
+      src: src/img/mx-master-3s.png
+    - link: https://www.gamecentar.rs/nintendo-switch/switch-broforce-deluxe-edition.html
+      realized: false
+      name: Broforce Deluxe Edition
+      src: src/img/broforce-deluxe-edition.jpg
+    - link: https://www.8bitdo.com/sn30-pro-g-classic-or-sn30-pro-sn/
+      realized: false
+      name: 8BitDo SN30 Pro
+      src: src/img/8bitdo-sn30-pro.jpg
+    - link: https://rollingsquare.com/products/aircard?variant=45836976718143
+      realized: false
+      name: AirCard
+      src: src/img/aircard.jpg
+    - link: https://www.meta.com/quest/quest-3/
+      realized: false
+      name: Meta Quest 3
+      src: src/img/meta-quest-3.png
+    - link: https://www.gamecentar.rs/nintendo-switch/switch-batman-arkham-trilogy.html
+      realized: false
+      name: Batman Arkham Trilogy
+      src: src/img/batman-arkham-trilogy.jpg
+    - link: https://intl.nothing.tech/pages/phone-2
+      realized: false
+      name: Nothing Phone 2
+      src: src/img/nothing-phone-2.png
     - link: https://flashlight.nitecore.com/product/edc27
       realized: false
       name: Nitecore EDC27
@@ -19,10 +47,6 @@ items:
       realized: false
       name: Rog Flow Z13-ACRNM RMT02
       src: src/img/rog-flow-z13-acrnm-rmt02.jpg
-    - link: https://naya.tech/
-      realized: false
-      name: Naya Create
-      src: src/img/naya-create.png
     - link: https://pen.tips/collections/products/products/penmat?variant=43000769544439
       realized: false
       name: PenMat
@@ -59,7 +83,7 @@ items:
       realized: true
       name: Mini 3 Pro
       src: src/img/mini-3-pro.jpg
-    - link: https://market.yandex.ru/product/1657508201
+    - link: https://shokz.com/products/openrunpro
       realized: false
       name: AfterShokz OpenRun Pro
       src: src/img/aftershokz-openrun-pro.png
@@ -171,18 +195,10 @@ items:
       realized: true
       name: Oculus Quest 2
       src: src/img/oculus-quest-2.jpg
-    - link: https://ulioandjack.com/products/explorer
-      realized: false
-      name: Ulio&Jack Explorer
-      src: src/img/ulio&jack-explorer.jpg
     - link: https://www.samsung.com/ru/audio-sound/galaxy-buds/galaxy-buds-live-mystic-black-sm-r180nzkaser/
       realized: true
       name: Galaxy Buds Live
       src: src/img/galaxy-buds-live.jpg
-    - link: https://shop.chipolo.ru/p/chipolo-card/
-      realized: false
-      name: Chipolo CARD
-      src: src/img/chipolo-card.jpg
     - link: https://lastgameboard.com/products/gameboard
       realized: false
       name: Gameboard
@@ -219,7 +235,7 @@ items:
       realized: false
       name: Folly Sunglasses
       src: src/img/folly-sunglasses.jpg
-    - link: https://www.nintendo.ru/amiibo-/-amiibo/--980850.html
+    - link: https://www.nintendo.com/amiibo/detail/zero-suit-samus-amiibo-super-smash-bros-series/
       realized: false
       name: Zero Suit Samus
       src: src/img/zero-suit-samus.jpg
@@ -227,10 +243,6 @@ items:
       realized: false
       name: Tihk HK2
       src: src/img/tihk-hk2.jpg
-    - link: https://icondesigne.ru/kreslo-flower-frenzy-by-ali-gulec/
-      realized: false
-      name: Flower Frenzy
-      src: src/img/flower-frenzy.jpg
     - link: https://www.sfbags.com/collections/cases-for-nintendo-switch/products/nintendo-switch-game-card-holder?variant=21203825164371
       realized: false
       name: Waterfield Game Card Holder 20
@@ -244,7 +256,7 @@ items:
       name: Outlery Full Set
       src: src/img/outlery-full-set.jpg
     - link: https://lining.spb.ru/magazin/product/muzhskiye-krossovki-li-ning-wade-essence-ii-ace-s
-      realized: false
+      realized: true
       name: LiNing Wade Essence Ace 41,5
       src: src/img/lining-wade-essence-ace-41,5.jpg
     - link: https://market.yandex.ru/product--shtativ-joby-gorillapod-1k-stand/1967965514
