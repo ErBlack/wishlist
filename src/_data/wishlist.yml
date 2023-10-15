@@ -92,7 +92,7 @@ items:
     name: AfterShokz OpenRun Pro
     src: src/img/aftershokz-openrun-pro.png
   - link: https://www.marshallheadphones.com/rs/en/willen.html
-    realized: false
+    realized: true
     name: Marshall Willen
     src: src/img/marshall-willen.png
   - link: https://www.logitech.com/ru-ru/products/personal-workspaces/logi-dock.html
