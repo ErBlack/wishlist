@@ -8,11 +8,11 @@ items:
     name: Pixii Camera
     src: src/img/pixii-camera.jpg
   - link: https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html
-    realized: false
+    realized: true
     name: MX Master 3S
     src: src/img/mx-master-3s.png
   - link: https://www.gamecentar.rs/nintendo-switch/switch-broforce-deluxe-edition.html
-    realized: false
+    realized: true
     name: Broforce Deluxe Edition
     src: src/img/broforce-deluxe-edition.jpg
   - link: https://www.8bitdo.com/sn30-pro-g-classic-or-sn30-pro-sn/
@@ -44,7 +44,7 @@ items:
     name: Creator Micro
     src: src/img/creator-micro.png
   - link: https://www.playstation.com/en-us/accessories/dualsense-edge-wireless-controller/
-    realized: false
+    realized: true
     name: DualSense Edge
     src: src/img/dualsense-edge.jpg
   - link: https://rog.asus.com/laptops/rog-flow/rog-flow-z13-acrnm-rmt02/
