@@ -1,4 +1,12 @@
 items:
+  - link: https://www.keychron.com/products/keychron-k5-pro-qmk-via-wireless-custom-mechanical-keyboard?variant=40437828976729
+    realized: false
+    name: Keychron K5 Pro
+    src: src/img/keychron-k5-pro.jpg
+  - link: https://us.nerdytec.com/products/couchmaster-cycon2
+    realized: false
+    name: Couchmaster Cycon²
+    src: src/img/couchmaster-cycon².jpg
   - link: https://gear.bethesda.net/products/starfield-constellation-edition
     realized: false
     name: Starfield Constellation Edition
@@ -24,7 +32,7 @@ items:
     name: AirCard
     src: src/img/aircard.jpg
   - link: https://www.meta.com/quest/quest-3/
-    realized: false
+    realized: true
     name: Meta Quest 3
     src: src/img/meta-quest-3.png
   - link: https://www.gamecentar.rs/nintendo-switch/switch-batman-arkham-trilogy.html
