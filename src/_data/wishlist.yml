@@ -1,305 +1,309 @@
 items:
-  - link: https://www.keychron.com/products/keychron-k5-pro-qmk-via-wireless-custom-mechanical-keyboard?variant=40437828976729
-    realized: false
-    name: Keychron K5 Pro
-    src: src/img/keychron-k5-pro.jpg
-  - link: https://us.nerdytec.com/products/couchmaster-cycon2
-    realized: false
-    name: Couchmaster Cycon²
-    src: src/img/couchmaster-cycon².jpg
-  - link: https://gear.bethesda.net/products/starfield-constellation-edition
-    realized: false
-    name: Starfield Constellation Edition
-    src: src/img/starfield-constellation-edition.png
-  - link: https://pixii.fr/pixii-camera
-    realized: false
-    name: Pixii Camera
-    src: src/img/pixii-camera.jpg
-  - link: https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html
-    realized: true
-    name: MX Master 3S
-    src: src/img/mx-master-3s.png
-  - link: https://www.gamecentar.rs/nintendo-switch/switch-broforce-deluxe-edition.html
-    realized: true
-    name: Broforce Deluxe Edition
-    src: src/img/broforce-deluxe-edition.jpg
-  - link: https://www.8bitdo.com/sn30-pro-g-classic-or-sn30-pro-sn/
-    realized: true
-    name: 8BitDo SN30 Pro
-    src: src/img/8bitdo-sn30-pro.jpg
-  - link: https://rollingsquare.com/products/aircard?variant=45836976718143
-    realized: true
-    name: AirCard
-    src: src/img/aircard.jpg
-  - link: https://www.meta.com/quest/quest-3/
-    realized: true
-    name: Meta Quest 3
-    src: src/img/meta-quest-3.png
-  - link: https://intl.nothing.tech/pages/phone-2
-    realized: false
-    name: Nothing Phone 2
-    src: src/img/nothing-phone-2.png
-  - link: https://flashlight.nitecore.com/product/edc27
-    realized: false
-    name: Nitecore EDC27
-    src: src/img/nitecore-edc27.png
-  - link: https://worklouder.cc/creator-micro/
-    realized: false
-    name: Creator Micro
-    src: src/img/creator-micro.png
-  - link: https://www.playstation.com/en-us/accessories/dualsense-edge-wireless-controller/
-    realized: true
-    name: DualSense Edge
-    src: src/img/dualsense-edge.jpg
-  - link: https://rog.asus.com/laptops/rog-flow/rog-flow-z13-acrnm-rmt02/
-    realized: false
-    name: Rog Flow Z13-ACRNM RMT02
-    src: src/img/rog-flow-z13-acrnm-rmt02.jpg
-  - link: https://pen.tips/collections/products/products/penmat?variant=43000769544439
-    realized: false
-    name: PenMat
-    src: src/img/penmat.png
-  - link: https://www.genkithings.com/products/covert-dock-mini?variant=40044404867146
-    realized: false
-    name: Covert Dock Mini
-    src: src/img/covert-dock-mini.png
-  - link: https://ggrip.com/
-    realized: false
-    name: GGrip
-    src: src/img/ggrip.jpg
-  - link: https://www.hypershell.cc/
-    realized: false
-    name: Hypershell
-    src: src/img/hypershell.png
-  - link: https://www.suunto.com/Products/sports-watches/suunto-9-peak/suunto-9-peak-full-titanium-black/
-    realized: true
-    name: Suunto 9 Peak Titanium
-    src: src/img/suunto-9-peak-titanium.png
-  - link: https://www.apple.com/iphone-14-pro/
-    realized: true
-    name: iPhone 14 Pro
-    src: src/img/iphone-14-pro.jpg
-  - link: https://evergoods.us/products/civic-access-pouch-2l
-    realized: false
-    name: Civic Access Pouch 2L
-    src: src/img/civic-access-pouch-2l.jpg
-  - link: https://secrid.com/en-global/miniwallet-perforated-black
-    realized: true
-    name: Secrid Miniwallet
-    src: src/img/secrid-miniwallet.png
-  - link: https://www.dji.com/mini-3-pro
-    realized: true
-    name: Mini 3 Pro
-    src: src/img/mini-3-pro.jpg
-  - link: https://shokz.com/products/openrunpro
-    realized: false
-    name: AfterShokz OpenRun Pro
-    src: src/img/aftershokz-openrun-pro.png
-  - link: https://www.marshallheadphones.com/rs/en/willen.html
-    realized: true
-    name: Marshall Willen
-    src: src/img/marshall-willen.png
-  - link: https://www.logitech.com/ru-ru/products/personal-workspaces/logi-dock.html
-    realized: false
-    name: Logi Dock
-    src: src/img/logi-dock.png
-  - link: https://www.goretroid.com/collections/frontpage/products/retroid-pocket-2-plus-handheld-retro-gaming-system
-    realized: true
-    name: Retroid Pocket 2+
-    src: src/img/retroid-pocket-2+.png
-  - link: https://www.helix.ca/index.asp
-    realized: false
-    name: Helix
-    src: src/img/helix.jpg
-  - link: https://ember.com/products/ember-mug-2?variant=30843977760853
-    realized: false
-    name: Ember Mug²
-    src: src/img/ember-mug².jpg
-  - link: https://lunasandals.com/products/mono-winged-edition
-    realized: false
-    name: Mono Winged Edition
-    src: src/img/mono-winged-edition.jpg
-  - link: https://shop.tastycoffee.ru/coffee?methods=1a,2a&page=1
-    realized: false
-    name: Tasty Coffee
-    src: src/img/tasty-coffee.png
-  - link: https://taplink.cc/bullevie.cidre/m/
-    realized: false
-    name: Сидр Bullevie
-    src: src/img/сидр-bullevie.jpg
-  - link: https://store.analogue.co/
-    realized: false
-    name: Analogue Pocket
-    src: src/img/analogue-pocket.png
-  - link: https://store.dji.com/product/dji-mic-2
-    realized: false
-    name: Mic 2
-    src: src/img/mic-2.png
-  - link: https://www.orbitkey.eu/collections/orbitkey-nest/products/orbitkey-nest?variant=32546115190880
-    realized: false
-    name: Orbitkey Nest
-    src: src/img/orbitkey-nest.jpg
-  - link: https://store.dji.com/product/pocket-2?vid=98631
-    realized: true
-    name: Osmo Pocket 2
-    src: src/img/osmo-pocket-2.jpg
-  - link: https://alpakagear.com/products/hub-clip
-    realized: true
-    name: Hub Clip
-    src: src/img/hub-clip.jpg
-  - link: https://alpakagear.com/products/zip-pouch-black?avad=230045_c242e0421
-    realized: true
-    name: Zip Pouch Black
-    src: src/img/zip-pouch-black.png
-  - link: https://store.steampowered.com/steamdeck
-    realized: true
-    name: Steam Deck
-    src: src/img/steam-deck.jpg
-  - link: https://www.steamdeck.com/dock
-    realized: false
-    name: Steam Deck Dock
-    src: src/img/steam-deck-dock.jpg
-  - link: https://market.yandex.ru/product--karta-pamiati-256-gb-micro-sdxc-sandisk-nintendo-switch-class-10-uhs-i-c10-u3-sdsqxao-256g-gnczn/1395444550
-    realized: true
-    name: SanDisk Nintendo Switch 256 Gb
-    src: src/img/sandisk-nintendo-switch-256-gb.jpg
-  - link: https://www.gamebuy.ru/switch/game/metroid-dread-nswitch
-    realized: true
-    name: Metroid Dread
-    src: src/img/metroid-dread.jpg
-  - link: https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/
-    realized: true
-    name: "Game & Watch: The Legend of Zelda"
-    src: src/img/game-&-watch-the-legend-of-zelda.jpg
-  - link: https://esprado.com/catalog/detail/chdt26be103-skovoroda-26545-aluminij-ap-indukcia-chedar-es
-    realized: true
-    name: Chedar 26
-    src: src/img/chedar-26.png
-  - link: https://www.bagandwallet.ru/collection/nomatic-2/product/vakuumnaya-sumka-dlya-odezhdy-nomatic-vacuum-bag-kupit
-    realized: true
-    name: Nomatic Vacuum Bag 2.0
-    src: src/img/nomatic-vacuum-bag-2.0.jpg
-  - link: https://osuza.com/collections/featured/products/osuza-canvas-v2
-    realized: false
-    name: Osuza Canvas
-    src: src/img/osuza-canvas.jpg
-  - link: https://www.nintendo.ru/-Nintendo-Switch/Nintendo-Switch-OLED-/Nintendo-Switch-OLED--2000984.html
-    realized: true
-    name: Nintendo Switch Oled
-    src: src/img/nintendo-switch-oled.png
-  - link: https://market.yandex.ru/product--printer-canon-zoemini/240336060?text=Zoemini&utm_source=my_goods&cpa=1
-    realized: true
-    name: Canon Zoemini
-    src: src/img/canon-zoemini.jpg
-  - link: https://www.logitech.com/en-us/products/mice/mx-anywhere-3.910-005985.html
-    realized: true
-    name: MX Anywhere 3
-    src: src/img/mx-anywhere-3.png
-  - link: https://www.peakdesign.com/products/shoe-pouch/
-    realized: true
-    name: Shoe Pouch
-    src: src/img/shoe-pouch.jpg
-  - link: https://www.oculus.com/quest-2/
-    realized: true
-    name: Oculus Quest 2
-    src: src/img/oculus-quest-2.jpg
-  - link: https://www.samsung.com/ru/audio-sound/galaxy-buds/galaxy-buds-live-mystic-black-sm-r180nzkaser/
-    realized: true
-    name: Galaxy Buds Live
-    src: src/img/galaxy-buds-live.jpg
-  - link: https://lastgameboard.com/products/gameboard
-    realized: false
-    name: Gameboard
-    src: src/img/gameboard.jpg
-  - link: https://www.nixon.com/us/en/regulus-stainless-steel/A1268.html?dwvar_A1268_color=001#start=1
-    realized: false
-    name: Nixon Regulus
-    src: src/img/nixon-regulus.jpg
-  - link: https://retrogames.biz/products/thea500-mini/
-    realized: true
-    name: THEA500 Mini
-    src: src/img/thea500-mini.jpg
-  - link: https://retrogames.biz/products/thec64-mini/
-    realized: false
-    name: THEC64 Mini
-    src: src/img/thec64-mini.jpg
-  - link: https://www.amazon.co.uk/dp/B07SLM7N9J
-    realized: false
-    name: PC Engine CoreGrafx Mini
-    src: src/img/pc-engine-coregrafx-mini.png
-  - link: https://www.swiftpoint.com/products/ergonomic-mice-propoint
-    realized: false
-    name: ProPoint
-    src: src/img/propoint.jpg
-  - link: https://market.yandex.ru/product/562280006
-    realized: true
-    name: AfterShokz Aeropex
-    src: src/img/aftershokz-aeropex.jpg
-  - link: https://pocket-tripod.com/products/universal-kit?variant=37788686581958
-    realized: false
-    name: Pocket Tripod
-    src: src/img/pocket-tripod.jpg
-  - link: https://distilunion.com/products/maglock-sunglasses-folly?variant=39240676689
-    realized: false
-    name: Folly Sunglasses
-    src: src/img/folly-sunglasses.jpg
-  - link: https://www.nintendo.com/amiibo/detail/zero-suit-samus-amiibo-super-smash-bros-series/
-    realized: false
-    name: Zero Suit Samus
-    src: src/img/zero-suit-samus.jpg
-  - link: https://tihk.co/collections/urban-survival-gear/products/hk2-handcuff-key
-    realized: false
-    name: Tihk HK2
-    src: src/img/tihk-hk2.jpg
-  - link: https://www.sfbags.com/collections/cases-for-nintendo-switch/products/nintendo-switch-game-card-holder?variant=21203825164371
-    realized: false
-    name: Waterfield Game Card Holder 20
-    src: src/img/waterfield-game-card-holder-20.jpg
-  - link: https://kulturazanosa.ru/podarok
-    realized: true
-    name: "#культуразаноса"
-    src: src/img/кulturazanosa.png
-  - link: https://outlery.com/products/outlery-set?utm_source=pocket_mylist&variant=31700248199257
-    realized: false
-    name: Outlery Full Set
-    src: src/img/outlery-full-set.jpg
-  - link: https://lining.spb.ru/magazin/product/muzhskiye-krossovki-li-ning-wade-essence-ii-ace-s
-    realized: true
-    name: LiNing Wade Essence Ace 41,5
-    src: src/img/lining-wade-essence-ace-41,5.jpg
-  - link: https://market.yandex.ru/product--shtativ-joby-gorillapod-1k-stand/1967965514
-    realized: true
-    name: GorillaPod 1K Stand
-    src: src/img/gorillapod-1k-stand.jpg
-  - link: https://www.wacaco.com/pages/nanopresso
-    realized: true
-    name: nanopresso
-    src: src/img/nanopresso.png
-  - link: https://myheroclip.com/products/heroclip-medium?variant=29620870447169
-    realized: true
-    name: Heroclip
-    src: src/img/heroclip.jpg
-  - link: https://www.samsung.com/ru/memory-storage/portable-ssd/portable-ssd-t5-2tb-black-mu-pa2t0b-ww/
-    realized: true
-    name: Samsung T5
-    src: src/img/samsung-t5.jpg
-  - link: https://www.codeofbell.com/products/x-pod-sling-pack
-    realized: true
-    name: X-POD
-    src: src/img/x-pod.png
-  - link: https://www.logitech.com/ru-ru/products/keyboards/mx-keys-wireless-keyboard.html
-    realized: true
-    name: MX Keys
-    src: src/img/mx-keys.webp
-  - link: https://www.wacom.com/ru-ru/products/smartpads/bamboo-slate-and-bamboo-folio
-    realized: true
-    name: Bamboo Slate
-    src: src/img/bamboo-slate.jpg
-  - link: https://thejamesbrand.com/stories/the-elko
-    realized: true
-    name: Elko
-    src: src/img/elko.jpeg
-  - link: https://www.aersf.com/slim-pouch-xpac-black
-    realized: true
-    name: Slim Pouch X-Pac
-    src: src/img/slim-pouch-x-pac.png
+    - link: https://www.keychron.com/products/keychron-k5-pro-qmk-via-wireless-custom-mechanical-keyboard?variant=40437828976729
+      realized: false
+      name: Keychron K5 Pro
+      src: src/img/keychron-k5-pro.jpg
+    - link: https://us.nerdytec.com/products/couchmaster-cycon2
+      realized: false
+      name: Couchmaster Cycon²
+      src: src/img/couchmaster-cycon².jpg
+    - link: https://gear.bethesda.net/products/starfield-constellation-edition
+      realized: false
+      name: Starfield Constellation Edition
+      src: src/img/starfield-constellation-edition.png
+    - link: https://pixii.fr/pixii-camera
+      realized: false
+      name: Pixii Camera
+      src: src/img/pixii-camera.jpg
+    - link: https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html
+      realized: true
+      name: MX Master 3S
+      src: src/img/mx-master-3s.png
+    - link: https://www.gamecentar.rs/nintendo-switch/switch-broforce-deluxe-edition.html
+      realized: true
+      name: Broforce Deluxe Edition
+      src: src/img/broforce-deluxe-edition.jpg
+    - link: https://www.8bitdo.com/sn30-pro-g-classic-or-sn30-pro-sn/
+      realized: true
+      name: 8BitDo SN30 Pro
+      src: src/img/8bitdo-sn30-pro.jpg
+    - link: https://rollingsquare.com/products/aircard?variant=45836976718143
+      realized: true
+      name: AirCard
+      src: src/img/aircard.jpg
+    - link: https://www.meta.com/quest/quest-3/
+      realized: true
+      name: Meta Quest 3
+      src: src/img/meta-quest-3.png
+    - link: https://intl.nothing.tech/pages/phone-2
+      realized: false
+      name: Nothing Phone 2
+      src: src/img/nothing-phone-2.png
+    - link: https://flashlight.nitecore.com/product/edc27
+      realized: false
+      name: Nitecore EDC27
+      src: src/img/nitecore-edc27.png
+    - link: https://worklouder.cc/creator-micro/
+      realized: false
+      name: Creator Micro
+      src: src/img/creator-micro.png
+    - link: https://www.playstation.com/en-us/accessories/dualsense-edge-wireless-controller/
+      realized: true
+      name: DualSense Edge
+      src: src/img/dualsense-edge.jpg
+    - link: https://rog.asus.com/laptops/rog-flow/rog-flow-z13-acrnm-rmt02/
+      realized: false
+      name: Rog Flow Z13-ACRNM RMT02
+      src: src/img/rog-flow-z13-acrnm-rmt02.jpg
+    - link: https://pen.tips/collections/products/products/penmat?variant=43000769544439
+      realized: false
+      name: PenMat
+      src: src/img/penmat.png
+    - link: https://www.genkithings.com/products/covert-dock-mini?variant=40044404867146
+      realized: false
+      name: Covert Dock Mini
+      src: src/img/covert-dock-mini.png
+    - link: https://ggrip.com/
+      realized: false
+      name: GGrip
+      src: src/img/ggrip.jpg
+    - link: https://www.hypershell.cc/
+      realized: false
+      name: Hypershell
+      src: src/img/hypershell.png
+    - link: https://www.suunto.com/Products/sports-watches/suunto-9-peak/suunto-9-peak-full-titanium-black/
+      realized: true
+      name: Suunto 9 Peak Titanium
+      src: src/img/suunto-9-peak-titanium.png
+    - link: https://www.apple.com/iphone-14-pro/
+      realized: true
+      name: iPhone 14 Pro
+      src: src/img/iphone-14-pro.jpg
+    - link: https://evergoods.us/products/civic-access-pouch-2l
+      realized: false
+      name: Civic Access Pouch 2L
+      src: src/img/civic-access-pouch-2l.jpg
+    - link: https://www.hugoboss.com/us/3-fl.-oz.-90-ml-eau-de-toilette-hugo-element/737052232195.html
+      realized: false
+      name: Hugo Element
+      src: src/img/hugo-element.jpg
+    - link: https://secrid.com/en-global/miniwallet-perforated-black
+      realized: true
+      name: Secrid Miniwallet
+      src: src/img/secrid-miniwallet.png
+    - link: https://www.dji.com/mini-3-pro
+      realized: true
+      name: Mini 3 Pro
+      src: src/img/mini-3-pro.jpg
+    - link: https://shokz.com/products/openrunpro
+      realized: false
+      name: AfterShokz OpenRun Pro
+      src: src/img/aftershokz-openrun-pro.png
+    - link: https://www.marshallheadphones.com/rs/en/willen.html
+      realized: true
+      name: Marshall Willen
+      src: src/img/marshall-willen.png
+    - link: https://www.logitech.com/ru-ru/products/personal-workspaces/logi-dock.html
+      realized: false
+      name: Logi Dock
+      src: src/img/logi-dock.png
+    - link: https://www.goretroid.com/collections/frontpage/products/retroid-pocket-2-plus-handheld-retro-gaming-system
+      realized: true
+      name: Retroid Pocket 2+
+      src: src/img/retroid-pocket-2+.png
+    - link: https://www.helix.ca/index.asp
+      realized: false
+      name: Helix
+      src: src/img/helix.jpg
+    - link: https://ember.com/products/ember-mug-2?variant=30843977760853
+      realized: false
+      name: Ember Mug²
+      src: src/img/ember-mug².jpg
+    - link: https://lunasandals.com/products/mono-winged-edition
+      realized: false
+      name: Mono Winged Edition
+      src: src/img/mono-winged-edition.jpg
+    - link: https://shop.tastycoffee.ru/coffee?methods=1a,2a&page=1
+      realized: false
+      name: Tasty Coffee
+      src: src/img/tasty-coffee.png
+    - link: https://taplink.cc/bullevie.cidre/m/
+      realized: false
+      name: Сидр Bullevie
+      src: src/img/сидр-bullevie.jpg
+    - link: https://store.analogue.co/
+      realized: false
+      name: Analogue Pocket
+      src: src/img/analogue-pocket.png
+    - link: https://store.dji.com/product/dji-mic-2
+      realized: false
+      name: Mic 2
+      src: src/img/mic-2.png
+    - link: https://www.orbitkey.eu/collections/orbitkey-nest/products/orbitkey-nest?variant=32546115190880
+      realized: false
+      name: Orbitkey Nest
+      src: src/img/orbitkey-nest.jpg
+    - link: https://store.dji.com/product/pocket-2?vid=98631
+      realized: true
+      name: Osmo Pocket 2
+      src: src/img/osmo-pocket-2.jpg
+    - link: https://alpakagear.com/products/hub-clip
+      realized: true
+      name: Hub Clip
+      src: src/img/hub-clip.jpg
+    - link: https://alpakagear.com/products/zip-pouch-black?avad=230045_c242e0421
+      realized: true
+      name: Zip Pouch Black
+      src: src/img/zip-pouch-black.png
+    - link: https://store.steampowered.com/steamdeck
+      realized: true
+      name: Steam Deck
+      src: src/img/steam-deck.jpg
+    - link: https://www.steamdeck.com/dock
+      realized: false
+      name: Steam Deck Dock
+      src: src/img/steam-deck-dock.jpg
+    - link: https://market.yandex.ru/product--karta-pamiati-256-gb-micro-sdxc-sandisk-nintendo-switch-class-10-uhs-i-c10-u3-sdsqxao-256g-gnczn/1395444550
+      realized: true
+      name: SanDisk Nintendo Switch 256 Gb
+      src: src/img/sandisk-nintendo-switch-256-gb.jpg
+    - link: https://www.gamebuy.ru/switch/game/metroid-dread-nswitch
+      realized: true
+      name: Metroid Dread
+      src: src/img/metroid-dread.jpg
+    - link: https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/
+      realized: true
+      name: 'Game & Watch: The Legend of Zelda'
+      src: src/img/game-&-watch-the-legend-of-zelda.jpg
+    - link: https://esprado.com/catalog/detail/chdt26be103-skovoroda-26545-aluminij-ap-indukcia-chedar-es
+      realized: true
+      name: Chedar 26
+      src: src/img/chedar-26.png
+    - link: https://www.bagandwallet.ru/collection/nomatic-2/product/vakuumnaya-sumka-dlya-odezhdy-nomatic-vacuum-bag-kupit
+      realized: true
+      name: Nomatic Vacuum Bag 2.0
+      src: src/img/nomatic-vacuum-bag-2.0.jpg
+    - link: https://osuza.com/collections/featured/products/osuza-canvas-v2
+      realized: false
+      name: Osuza Canvas
+      src: src/img/osuza-canvas.jpg
+    - link: https://www.nintendo.ru/-Nintendo-Switch/Nintendo-Switch-OLED-/Nintendo-Switch-OLED--2000984.html
+      realized: true
+      name: Nintendo Switch Oled
+      src: src/img/nintendo-switch-oled.png
+    - link: https://market.yandex.ru/product--printer-canon-zoemini/240336060?text=Zoemini&utm_source=my_goods&cpa=1
+      realized: true
+      name: Canon Zoemini
+      src: src/img/canon-zoemini.jpg
+    - link: https://www.logitech.com/en-us/products/mice/mx-anywhere-3.910-005985.html
+      realized: true
+      name: MX Anywhere 3
+      src: src/img/mx-anywhere-3.png
+    - link: https://www.peakdesign.com/products/shoe-pouch/
+      realized: true
+      name: Shoe Pouch
+      src: src/img/shoe-pouch.jpg
+    - link: https://www.oculus.com/quest-2/
+      realized: true
+      name: Oculus Quest 2
+      src: src/img/oculus-quest-2.jpg
+    - link: https://www.samsung.com/ru/audio-sound/galaxy-buds/galaxy-buds-live-mystic-black-sm-r180nzkaser/
+      realized: true
+      name: Galaxy Buds Live
+      src: src/img/galaxy-buds-live.jpg
+    - link: https://lastgameboard.com/products/gameboard
+      realized: false
+      name: Gameboard
+      src: src/img/gameboard.jpg
+    - link: https://www.nixon.com/us/en/regulus-stainless-steel/A1268.html?dwvar_A1268_color=001#start=1
+      realized: false
+      name: Nixon Regulus
+      src: src/img/nixon-regulus.jpg
+    - link: https://retrogames.biz/products/thea500-mini/
+      realized: true
+      name: THEA500 Mini
+      src: src/img/thea500-mini.jpg
+    - link: https://retrogames.biz/products/thec64-mini/
+      realized: false
+      name: THEC64 Mini
+      src: src/img/thec64-mini.jpg
+    - link: https://www.amazon.co.uk/dp/B07SLM7N9J
+      realized: false
+      name: PC Engine CoreGrafx Mini
+      src: src/img/pc-engine-coregrafx-mini.png
+    - link: https://www.swiftpoint.com/products/ergonomic-mice-propoint
+      realized: false
+      name: ProPoint
+      src: src/img/propoint.jpg
+    - link: https://market.yandex.ru/product/562280006
+      realized: true
+      name: AfterShokz Aeropex
+      src: src/img/aftershokz-aeropex.jpg
+    - link: https://pocket-tripod.com/products/universal-kit?variant=37788686581958
+      realized: false
+      name: Pocket Tripod
+      src: src/img/pocket-tripod.jpg
+    - link: https://distilunion.com/products/maglock-sunglasses-folly?variant=39240676689
+      realized: false
+      name: Folly Sunglasses
+      src: src/img/folly-sunglasses.jpg
+    - link: https://www.nintendo.com/amiibo/detail/zero-suit-samus-amiibo-super-smash-bros-series/
+      realized: false
+      name: Zero Suit Samus
+      src: src/img/zero-suit-samus.jpg
+    - link: https://tihk.co/collections/urban-survival-gear/products/hk2-handcuff-key
+      realized: false
+      name: Tihk HK2
+      src: src/img/tihk-hk2.jpg
+    - link: https://www.sfbags.com/collections/cases-for-nintendo-switch/products/nintendo-switch-game-card-holder?variant=21203825164371
+      realized: false
+      name: Waterfield Game Card Holder 20
+      src: src/img/waterfield-game-card-holder-20.jpg
+    - link: https://kulturazanosa.ru/podarok
+      realized: true
+      name: '#культуразаноса'
+      src: src/img/кulturazanosa.png
+    - link: https://outlery.com/products/outlery-set?utm_source=pocket_mylist&variant=31700248199257
+      realized: false
+      name: Outlery Full Set
+      src: src/img/outlery-full-set.jpg
+    - link: https://lining.spb.ru/magazin/product/muzhskiye-krossovki-li-ning-wade-essence-ii-ace-s
+      realized: true
+      name: LiNing Wade Essence Ace 41,5
+      src: src/img/lining-wade-essence-ace-41,5.jpg
+    - link: https://market.yandex.ru/product--shtativ-joby-gorillapod-1k-stand/1967965514
+      realized: true
+      name: GorillaPod 1K Stand
+      src: src/img/gorillapod-1k-stand.jpg
+    - link: https://www.wacaco.com/pages/nanopresso
+      realized: true
+      name: nanopresso
+      src: src/img/nanopresso.png
+    - link: https://myheroclip.com/products/heroclip-medium?variant=29620870447169
+      realized: true
+      name: Heroclip
+      src: src/img/heroclip.jpg
+    - link: https://www.samsung.com/ru/memory-storage/portable-ssd/portable-ssd-t5-2tb-black-mu-pa2t0b-ww/
+      realized: true
+      name: Samsung T5
+      src: src/img/samsung-t5.jpg
+    - link: https://www.codeofbell.com/products/x-pod-sling-pack
+      realized: true
+      name: X-POD
+      src: src/img/x-pod.png
+    - link: https://www.logitech.com/ru-ru/products/keyboards/mx-keys-wireless-keyboard.html
+      realized: true
+      name: MX Keys
+      src: src/img/mx-keys.webp
+    - link: https://www.wacom.com/ru-ru/products/smartpads/bamboo-slate-and-bamboo-folio
+      realized: true
+      name: Bamboo Slate
+      src: src/img/bamboo-slate.jpg
+    - link: https://thejamesbrand.com/stories/the-elko
+      realized: true
+      name: Elko
+      src: src/img/elko.jpeg
+    - link: https://www.aersf.com/slim-pouch-xpac-black
+      realized: true
+      name: Slim Pouch X-Pac
+      src: src/img/slim-pouch-x-pac.png
