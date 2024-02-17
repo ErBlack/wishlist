@@ -4,7 +4,7 @@ items:
     name: Dusk Lite
     src: src/img/dusk-lite.jpg
   - link: https://www.keychron.com/products/keychron-k5-max-qmk-via-wireless-custom-mechanical-keyboard?variant=40778479730777
-    realized: false
+    realized: true
     name: Keychron K5 Max
     src: src/img/keychron-k5-max.jpg
   - link: https://us.nerdytec.com/products/couchmaster-cycon2
