@@ -11,6 +11,10 @@ items:
       realized: false
       name: DJI Avata 2
       src: src/img/dji-avata-2.png
+    - link: https://secretlab.eu/products/magnus-monitor-arm
+      realized: false
+      name: Secretlab Magnus
+      src: src/img/secretlab-magnus.jpg
     - link: https://www.rabbit.tech/rabbit-r1
       realized: false
       name: Rabbit R1
