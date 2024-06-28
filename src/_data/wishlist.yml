@@ -12,7 +12,7 @@ items:
       name: DJI Avata 2
       src: src/img/dji-avata-2.png
     - link: https://www.rabbit.tech/rabbit-r1
-      realized: false
+      realized: true
       name: Rabbit R1
       src: src/img/rabbit-r1.png
     - link: https://shop.fjorden.co/en-eu/products/fjorden-plus
@@ -32,7 +32,7 @@ items:
       name: Corsair Platform 6
       src: src/img/corsair-platform-6.png
     - link: https://us.nerdytec.com/products/couchmaster-cycon2
-      realized: false
+      realized: true
       name: Couchmaster Cycon²
       src: src/img/couchmaster-cycon².jpg
     - link: https://gear.bethesda.net/products/starfield-constellation-edition
@@ -272,7 +272,7 @@ items:
       name: AfterShokz Aeropex
       src: src/img/aftershokz-aeropex.jpg
     - link: https://pocket-tripod.com/products/universal-kit?variant=37788686581958
-      realized: false
+      realized: true
       name: Pocket Tripod
       src: src/img/pocket-tripod.jpg
     - link: https://distilunion.com/products/maglock-sunglasses-folly?variant=39240676689
