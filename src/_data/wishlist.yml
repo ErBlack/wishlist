@@ -1,4 +1,12 @@
 items:
+  - link: https://nomadgoods.com/ca/products/tracking-card
+    realized: false
+    name: Tracking Card
+    src: src/img/tracking-card.jpg
+  - link: https://www.livelarq.com/purification/larq-bottle-purevis-2-obsidian-black?size=1000ml
+    realized: false
+    name: LARQ Bottle PureVis 2
+    src: src/img/larq-bottle-purevis-2.png
   - link: https://www.lg.com/uk/cinebeam-q/
     realized: false
     name: LG CineBeam Q
