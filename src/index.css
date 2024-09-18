@@ -41,6 +41,22 @@ body {
     transition: color 0.1s ease-in-out, transform 0.2s ease-out, box-shadow 0.2s ease-out;
     cursor: pointer;
     border-radius: 16px;
+    @media (prefers-reduced-motion: no-preference) {
+        @supports (animation-timeline: view()) {
+            animation: appear linear both;
+            animation-timeline: view();
+            animation-range: entry 0% entry 80%;
+        }
+    }
+}
+
+@keyframes appear {
+    from {
+        transform: scale(0.8) translate(0, 60%);
+    }
+    to {
+        transform: scale(1) translate(0);
+    }
 }
 
 .item:hover {
