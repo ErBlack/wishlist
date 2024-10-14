@@ -8,13 +8,9 @@ items:
       name: Console Sling RND Edition
       src: src/img/console-sling-rnd-edition.png
     - link: https://a.co/d/h0sANDd
-      realized: false
+      realized: true
       name: Video Game of the Year
       src: src/img/video-game-of-the-year.jpg
-    - link: https://www.moft.us/products/detachable-phone-lanyard?variant=40055996383319
-      realized: false
-      name: Phone Lanyard
-      src: src/img/phone-lanyard.jpg
     - link: https://crkd.gg/products/crkd-atom
       realized: false
       name: Atom
@@ -28,7 +24,7 @@ items:
       name: Retroid Pocket 2S Metal Edition
       src: src/img/retroid-pocket-2s-metal-edition.png
     - link: https://steelseries.com/gaming-headsets/arctis-nova-pro-wireless-xbox-pc?color=black
-      realized: false
+      realized: true
       name: Arctis Nova Pro
       src: src/img/arctis-nova-pro.png
     - link: https://www.livelarq.com/purification/larq-bottle-purevis-2-obsidian-black?size=1000ml
@@ -204,7 +200,7 @@ items:
       name: Analogue Pocket
       src: src/img/analogue-pocket.png
     - link: https://store.dji.com/product/dji-mic-2
-      realized: false
+      realized: true
       name: Mic 2
       src: src/img/mic-2.png
     - link: https://www.orbitkey.eu/collections/orbitkey-nest/products/orbitkey-nest?variant=32546115190880
