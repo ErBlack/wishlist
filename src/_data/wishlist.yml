@@ -1,4 +1,8 @@
 items:
+    - link: https://www.xreal.com/one-pro
+      realized: false
+      name: XREAL One Pro
+      src: src/img/xreal-one-pro.png
     - link: https://shokz.com/products/openrunpro2
       realized: false
       name: OpenRun Pro 2
@@ -52,7 +56,7 @@ items:
       name: Rabbit R1
       src: src/img/rabbit-r1.png
     - link: https://shop.fjorden.co/en-eu/products/fjorden-plus
-      realized: false
+      realized: true
       name: Fjorden
       src: src/img/fjorden.jpg
     - link: https://ampere.shop/products/dusk-lite-outdoor-adjustable-tint-electrochromic-smart-sunglasses?variant=39862620553350
