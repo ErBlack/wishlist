@@ -119,8 +119,12 @@ items:
     realized: false
     name: Nitecore EDC27
     src: src/img/nitecore-edc27.png
-  - link: https://worklouder.cc/creator-micro/
+  - link: https://worklouder.cc/framer-creator-micro
     realized: false
+    name: Framer Creator Micro
+    src: src/img/framer-creator-micro.png
+  - link: https://worklouder.cc/creator-micro/
+    realized: true
     name: Creator Micro
     src: src/img/creator-micro.png
   - link: https://www.playstation.com/en-us/accessories/dualsense-edge-wireless-controller/
