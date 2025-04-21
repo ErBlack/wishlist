@@ -1,4 +1,8 @@
 items:
+  - link: https://www.nintendo.com/us/gaming-systems/switch-2/
+    realized: false
+    name: Nintendo Switch 2
+    src: src/img/nintendo-switch-2.jpg
   - link: https://busy.bar/
     realized: false
     name: Busy Bar
