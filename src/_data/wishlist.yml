@@ -15,6 +15,10 @@ items:
     realized: false
     name: Core Time 2
     src: src/img/core-time-2.png
+  - link: https://www.fidlock.com/consumer/en/hermetic-dry-bag-multi/d-14224a
+    realized: false
+    name: Hermetic Dry Bag Multi
+    src: src/img/hermetic-dry-bag-multi.jpg
   - link: https://shop.boox.com/products/palma2
     realized: false
     name: Palma 2
