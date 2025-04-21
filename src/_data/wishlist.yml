@@ -11,6 +11,10 @@ items:
     realized: false
     name: OpenRun Pro 2
     src: src/img/openrun-pro-2.webp
+  - link: https://store.repebble.com/
+    realized: false
+    name: Core Time 2
+    src: src/img/core-time-2.png
   - link: https://shop.boox.com/products/palma2
     realized: false
     name: Palma 2
