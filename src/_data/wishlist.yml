@@ -11,6 +11,10 @@ items:
     realized: false
     name: XREAL One Pro
     src: src/img/xreal-one-pro.png
+  - link: https://www.bitmapbooks.com/collections/all-books/products/the-crpg-book-a-guide-to-computer-role-playing-games
+    realized: false
+    name: The CRPG Book
+    src: src/img/the-crpg-book.jpg
   - link: https://shokz.com/products/openrunpro2
     realized: false
     name: OpenRun Pro 2
