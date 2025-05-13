@@ -99,10 +99,6 @@ items:
       realized: true
       name: Couchmaster Cycon²
       src: src/img/couchmaster-cycon².jpg
-    - link: https://gear.bethesda.net/products/starfield-constellation-edition
-      realized: false
-      name: Starfield Constellation Edition
-      src: src/img/starfield-constellation-edition.png
     - link: https://pixii.fr/pixii-camera
       realized: false
       name: Pixii Camera
