@@ -11,6 +11,10 @@ items:
     realized: false
     name: XREAL One Pro
     src: src/img/xreal-one-pro.png
+  - link: https://shokz.com/products/opendots-one
+    realized: false
+    name: OpenDots One
+    src: src/img/opendots-one.webp
   - link: https://www.bitmapbooks.com/collections/all-books/products/the-crpg-book-a-guide-to-computer-role-playing-games
     realized: false
     name: The CRPG Book
