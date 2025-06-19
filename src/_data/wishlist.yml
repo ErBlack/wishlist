@@ -1,6 +1,10 @@
 items:
-    - link: https://www.nintendo.com/us/gaming-systems/switch-2/
+    - link: https://www.genkithings.com/products/force-field-2?variant=42025278668874
       realized: false
+      name: Force Field 2
+      src: src/img/force-field-2.webp
+    - link: https://www.nintendo.com/us/gaming-systems/switch-2/
+      realized: true
       name: Nintendo Switch 2
       src: src/img/nintendo-switch-2.jpg
     - link: https://busy.bar/
@@ -11,6 +15,10 @@ items:
       realized: false
       name: XREAL One Pro
       src: src/img/xreal-one-pro.png
+    - link: https://www.genkithings.com/products/energy-pack
+      realized: false
+      name: Energy Pack
+      src: src/img/energy-pack.webp
     - link: https://shokz.com/products/opendots-one
       realized: false
       name: OpenDots One
