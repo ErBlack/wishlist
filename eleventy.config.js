@@ -1,5 +1,5 @@
-const yaml = require('yaml');
-const Image = require('@11ty/eleventy-img');
+import yaml from 'yaml';
+import Image from '@11ty/eleventy-img';
 
 async function imageShortcode(src, alt, className) {
     const {
@@ -25,7 +25,7 @@ async function srcShortcode(src) {
     return url;
 }
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
     eleventyConfig.addDataExtension('yml', contents => yaml.parse(contents));
     eleventyConfig.addPassthroughCopy('src/index.css');
     eleventyConfig.addLiquidFilter('isUrl', value => String(value).indexOf('http') === 0);
@@ -56,4 +56,4 @@ module.exports = function (eleventyConfig) {
         },
         passthroughFileCopy: true,
     };
-};
+}

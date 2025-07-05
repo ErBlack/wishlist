@@ -1,8 +1,8 @@
-const https = require('https');
-const yaml = require('yaml');
-const fs = require('fs');
-const { promisify } = require('util');
-const { extname } = require('path');
+import https from 'https';
+import yaml from 'yaml';
+import fs from 'fs';
+import { promisify } from 'util';
+import { extname } from 'path';
 
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
