@@ -11,10 +11,22 @@ items:
       realized: false
       name: Busy Bar
       src: src/img/busy-bar.jpg
+    - link: https://wacaco.com/products/pixapresso
+      realized: false
+      name: PixaPresso
+      src: src/img/pixapresso.png
     - link: https://www.xreal.com/one-pro
       realized: false
       name: XREAL One Pro
       src: src/img/xreal-one-pro.png
+    - link: https://www.codeofbell.com/collections/bags/products/x-pak-evo-sling-pack?variant=14724032725105
+      realized: false
+      name: X-Pak Evo
+      src: src/img/x-pak-evo.png
+    - link: https://www.codeofbell.com/products/backpack-harness-kit
+      realized: false
+      name: Backpack Harness Kit
+      src: src/img/backpack-harness-kit.jpg
     - link: https://www.genkithings.com/products/energy-pack
       realized: false
       name: Energy Pack
@@ -135,8 +147,12 @@ items:
       realized: true
       name: Meta Quest 3
       src: src/img/meta-quest-3.png
-    - link: https://intl.nothing.tech/pages/phone-2
+    - link: https://nothing.tech/products/phone-3?Colour=Black&Capacity=16+512GB
       realized: false
+      name: Nothing Phone 3
+      src: src/img/nothing-phone-3.png
+    - link: https://intl.nothing.tech/pages/phone-2
+      realized: true
       name: Nothing Phone 2
       src: src/img/nothing-phone-2.png
     - link: https://flashlight.nitecore.com/product/edc27
