@@ -11,6 +11,10 @@ items:
     realized: false
     name: Busy Bar
     src: src/img/busy-bar.jpg
+  - link: https://www.8bitdo.com/ultimate-bluetooth-controller/
+    realized: false
+    name: 8BitDo Ultimate Bluetooth Controller
+    src: src/img/8bitdo-ultimate-bluetooth-controller.jpg
   - link: https://wacaco.com/products/pixapresso
     realized: false
     name: PixaPresso
@@ -115,6 +119,10 @@ items:
     realized: false
     name: Dusk Lite
     src: src/img/dusk-lite.jpg
+  - link: https://flipperzero.one/
+    realized: true
+    name: Flipper Zero
+    src: src/img/flipper-zero.png
   - link: https://www.keychron.com/products/keychron-k5-max-qmk-via-wireless-custom-mechanical-keyboard?variant=40778479730777
     realized: true
     name: Keychron K5 Max
@@ -139,10 +147,6 @@ items:
     realized: false
     name: Atari 400 Mini
     src: src/img/atari-400-mini.png
-  - link: https://www.gamecentar.rs/nintendo-switch/switch-broforce-deluxe-edition.html
-    realized: true
-    name: Broforce Deluxe Edition
-    src: src/img/broforce-deluxe-edition.jpg
   - link: https://www.8bitdo.com/sn30-pro-g-classic-or-sn30-pro-sn/
     realized: true
     name: 8BitDo SN30 Pro
@@ -195,6 +199,14 @@ items:
     realized: false
     name: Hypershell
     src: src/img/hypershell.png
+  - link: https://www.dockcase.com/products/dockcase-pro-explorer-edition-6in1-smart-usb-c-hub
+    realized: true
+    name: Dockcase Hub
+    src: src/img/dockcase-hub.jpg
+  - link: https://www.dockcase.com/products/dockcase-pocket-m2-nvme-smart-ssd-enclosure-matte-black
+    realized: true
+    name: Doccase SSD Enclosure
+    src: src/img/doccase-ssd-enclosure.avif
   - link: https://www.suunto.com/Products/sports-watches/suunto-9-peak/suunto-9-peak-full-titanium-black/
     realized: true
     name: Suunto 9 Peak Titanium
