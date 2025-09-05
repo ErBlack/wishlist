@@ -15,6 +15,10 @@ items:
     realized: false
     name: 8BitDo Ultimate Bluetooth Controller
     src: src/img/8bitdo-ultimate-bluetooth-controller.jpg
+  - link: https://eu.laifentech.com/products/laifen-p3-pro-3-blade-electric-shaver-with-linear-motor?variant=51787680579889
+    realized: false
+    name: Laifen P3 Pro
+    src: src/img/laifen-p3-pro.png
   - link: https://wacaco.com/products/pixapresso
     realized: false
     name: PixaPresso
