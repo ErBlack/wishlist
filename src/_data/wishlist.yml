@@ -31,6 +31,10 @@ items:
       realized: false
       name: XREAL One Pro
       src: src/img/xreal-one-pro.png
+    - link: https://gundamsrbija.com/products/rg-1144-00-raiser-
+      realized: false
+      name: 00 Raiser
+      src: src/img/00-raiser.jpg
     - link: https://www.codeofbell.com/collections/bags/products/x-pak-evo-sling-pack?variant=14724032725105
       realized: false
       name: X-Pak Evo
