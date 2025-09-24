@@ -92,7 +92,7 @@ items:
       name: Tracking Card
       src: src/img/tracking-card.jpg
     - link: https://www.goretroid.com/collections/retro-game-system/products/retroid-pocket-2s-metal-edition-handheld
-      realized: false
+      realized: true
       name: Retroid Pocket 2S Metal Edition
       src: src/img/retroid-pocket-2s-metal-edition.png
     - link: https://steelseries.com/gaming-headsets/arctis-nova-pro-wireless-xbox-pc?color=black
@@ -147,9 +147,9 @@ items:
       realized: true
       name: Couchmaster Cycon²
       src: src/img/couchmaster-cycon².jpg
-    - link: https://pixii.fr/pixii-camera
+    - link: https://pixii.fr/buy-pixii?model=A2572+
       realized: false
-      name: Pixii Camera
+      name: Pixii Plus
       src: src/img/pixii-camera.jpg
     - link: https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html
       realized: true
@@ -284,9 +284,13 @@ items:
       name: Mic 2
       src: src/img/mic-2.png
     - link: https://www.orbitkey.eu/collections/orbitkey-nest/products/orbitkey-nest?variant=32546115190880
-      realized: false
+      realized: true
       name: Orbitkey Nest
       src: src/img/orbitkey-nest.jpg
+    - link: https://www.orbitkey.eu/collections/orbitkey-nest/products/nest-v2
+      realized: false
+      name: Orbitkey Nest V2
+      src: src/img/orbitkey-nest-v2.jpg
     - link: https://store.dji.com/product/pocket-2?vid=98631
       realized: true
       name: Osmo Pocket 2
