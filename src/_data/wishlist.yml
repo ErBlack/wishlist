@@ -65,8 +65,8 @@ items:
       src: src/img/openrun-pro-2.webp
     - link: https://store.repebble.com/
       realized: false
-      name: Core Time 2
-      src: src/img/core-time-2.png
+      name: Pebble Time 2
+      src: src/img/pebble-time-2.jpeg
     - link: https://www.fidlock.com/consumer/en/hermetic-dry-bag-multi/d-14224a
       realized: false
       name: Hermetic Dry Bag Multi
@@ -200,7 +200,7 @@ items:
       name: PenMat
       src: src/img/penmat.png
     - link: https://www.genkithings.com/products/covert-dock-mini?variant=40044404867146
-      realized: false
+      realized: true§
       name: Covert Dock Mini
       src: src/img/covert-dock-mini.png
     - link: https://ggrip.com/
@@ -359,10 +359,6 @@ items:
       realized: true
       name: Galaxy Buds Live
       src: src/img/galaxy-buds-live.jpg
-    - link: https://lastgameboard.com/products/gameboard
-      realized: false
-      name: Gameboard
-      src: src/img/gameboard.jpg
     - link: https://www.nixon.com/us/en/regulus-stainless-steel/A1268.html?dwvar_A1268_color=001#start=1
       realized: false
       name: Nixon Regulus
