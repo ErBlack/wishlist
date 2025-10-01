@@ -35,6 +35,10 @@ items:
       realized: false
       name: 00 Raiser
       src: src/img/00-raiser.jpg
+    - link: https://www.logitech.com/en-us/shop/p/mx-master-4.910-007560
+      realized: false
+      name: MX Master 4
+      src: src/img/mx-master-4.png
     - link: https://www.codeofbell.com/collections/bags/products/x-pak-evo-sling-pack?variant=14724032725105
       realized: false
       name: X-Pak Evo
@@ -88,7 +92,7 @@ items:
       name: Atom
       src: src/img/crkd-atom.png
     - link: https://nomadgoods.com/ca/products/tracking-card
-      realized: false
+      realized: true
       name: Tracking Card
       src: src/img/tracking-card.jpg
     - link: https://www.goretroid.com/collections/retro-game-system/products/retroid-pocket-2s-metal-edition-handheld

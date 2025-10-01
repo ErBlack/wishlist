@@ -9,6 +9,7 @@
     "build": "npx @11ty/eleventy",
     "postversion": "git push && git push --tags",
     "retrieve": "node scripts/retrieve-images.js",
+    "postretrieve": "npm run fix",
     "fix": "prettier . --write"
   },
   "repository": {
