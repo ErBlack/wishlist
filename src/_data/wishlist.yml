@@ -87,6 +87,10 @@ items:
       realized: true
       name: Video Game of the Year
       src: src/img/video-game-of-the-year.jpg
+    - link: https://seattleultrasonics.com/products/c-200-ultrasonic-8-chefs-knife
+      realized: false
+      name: C-200
+      src: src/img/c-200.jpg
     - link: https://crkd.gg/products/crkd-atom
       realized: false
       name: Atom
