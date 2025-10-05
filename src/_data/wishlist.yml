@@ -207,6 +207,10 @@ items:
       realized: false
       name: PenMat
       src: src/img/penmat.png
+    - link: https://atari.com/products/atari-gamestation-go
+      realized: false
+      name: Atari GameStation Go
+      src: src/img/atari-gamestation-go.png
     - link: https://www.genkithings.com/products/covert-dock-mini?variant=40044404867146
       realized: true§
       name: Covert Dock Mini
