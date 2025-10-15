@@ -24,7 +24,7 @@ items:
       name: Supernote A6X2 Nomad
       src: src/img/supernote-a6x2-nomad.png
     - link: https://wacaco.com/products/pixapresso
-      realized: false
+      realized: true
       name: PixaPresso
       src: src/img/pixapresso.png
     - link: https://www.xreal.com/one-pro
@@ -36,7 +36,7 @@ items:
       name: 00 Raiser
       src: src/img/00-raiser.jpg
     - link: https://www.logitech.com/en-us/shop/p/mx-master-4.910-007560
-      realized: false
+      realized: true
       name: MX Master 4
       src: src/img/mx-master-4.png
     - link: https://www.codeofbell.com/collections/bags/products/x-pak-evo-sling-pack?variant=14724032725105
@@ -80,7 +80,7 @@ items:
       name: Palma 2
       src: src/img/palma-2.png
     - link: https://teenage.engineering/store/ep-133
-      realized: false
+      realized: true
       name: EP–133 K.O. II
       src: src/img/ep–133-k.o.-ii.png
     - link: https://a.co/d/h0sANDd
@@ -92,7 +92,7 @@ items:
       name: C-200
       src: src/img/c-200.jpg
     - link: https://crkd.gg/products/crkd-atom
-      realized: false
+      realized: true
       name: Atom
       src: src/img/crkd-atom.png
     - link: https://nomadgoods.com/ca/products/tracking-card
