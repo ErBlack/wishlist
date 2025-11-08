@@ -23,6 +23,10 @@ items:
       realized: false
       name: Supernote A6X2 Nomad
       src: src/img/supernote-a6x2-nomad.png
+    - link: https://aulumu.com/products/laptop-stand
+      realized: false
+      name: Aulumu G07
+      src: src/img/g07.jpg
     - link: https://wacaco.com/products/pixapresso
       realized: true
       name: PixaPresso
