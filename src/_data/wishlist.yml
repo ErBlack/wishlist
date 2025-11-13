@@ -7,6 +7,10 @@ items:
       realized: true
       name: Nintendo Switch 2
       src: src/img/nintendo-switch-2.jpg
+    - link: https://store.steampowered.com/sale/steamcontroller
+      realized: false
+      name: Steam Controller
+      src: src/img/steam-controller.png
     - link: https://busy.bar/
       realized: false
       name: Busy Bar
