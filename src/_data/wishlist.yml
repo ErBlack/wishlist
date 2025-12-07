@@ -3,6 +3,10 @@ items:
       realized: false
       name: Force Field 2
       src: src/img/force-field-2.webp
+    - link: https://store.steampowered.com/sale/steammachine
+      realized: false
+      name: Steam Machine
+      src: src/img/steam-machine.jpg
     - link: https://www.nintendo.com/us/gaming-systems/switch-2/
       realized: true
       name: Nintendo Switch 2
@@ -11,6 +15,14 @@ items:
       realized: false
       name: Steam Controller
       src: src/img/steam-controller.png
+    - link: https://store.steampowered.com/sale/steamframe
+      realized: false
+      name: Steam Frame
+      src: src/img/steam-frame.jpg
+    - link: https://hototools.com/products/snapbloq
+      realized: false
+      name: SNAPBLOQ
+      src: src/img/snapbloq.png
     - link: https://busy.bar/
       realized: false
       name: Busy Bar
