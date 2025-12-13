@@ -1,6 +1,6 @@
 items:
     - link: https://www.genkithings.com/products/force-field-2?variant=42025278668874
-      realized: false
+      realized: true
       name: Force Field 2
       src: src/img/force-field-2.webp
     - link: https://store.steampowered.com/sale/steammachine
