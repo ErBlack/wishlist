@@ -15,6 +15,10 @@ items:
       realized: false
       name: Steam Controller
       src: src/img/steam-controller.png
+    - link: https://skinarma.com/products/dyno-ve-handstrap-with-charging-cable
+      realized: false
+      name: Dyno VE
+      src: src/img/dyno-ve.jpg
     - link: https://store.steampowered.com/sale/steamframe
       realized: false
       name: Steam Frame
