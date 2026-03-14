@@ -7,6 +7,10 @@ items:
       realized: false
       name: Steam Machine
       src: src/img/steam-machine.jpg
+    - link: https://www.codeofbell.com/products/basix-nova-carabiner
+      realized: false
+      name: Basix Nova Carabiner
+      src: src/img/basix-nova-carabiner.png
     - link: https://www.nintendo.com/us/gaming-systems/switch-2/
       realized: true
       name: Nintendo Switch 2
@@ -140,7 +144,7 @@ items:
       name: LARQ Bottle PureVis 2
       src: src/img/larq-bottle-purevis-2.png
     - link: https://www.lg.com/uk/cinebeam-q/
-      realized: false
+      realized: true
       name: LG CineBeam Q
       src: src/img/lg-cinebeam-q.jpg
     - link: https://play.date/
@@ -232,11 +236,11 @@ items:
       name: Rog Flow Z13-ACRNM RMT02
       src: src/img/rog-flow-z13-acrnm-rmt02.jpg
     - link: https://pen.tips/collections/products/products/penmat?variant=43000769544439
-      realized: false
+      realized: true
       name: PenMat
       src: src/img/penmat.png
     - link: https://atari.com/products/atari-gamestation-go
-      realized: false
+      realized: true
       name: Atari GameStation Go
       src: src/img/atari-gamestation-go.png
     - link: https://www.genkithings.com/products/covert-dock-mini?variant=40044404867146
@@ -292,7 +296,7 @@ items:
       name: Marshall Willen
       src: src/img/marshall-willen.png
     - link: https://www.logitech.com/ru-ru/products/personal-workspaces/logi-dock.html
-      realized: false
+      realized: true
       name: Logi Dock
       src: src/img/logi-dock.png
     - link: https://www.helix.ca/index.asp
