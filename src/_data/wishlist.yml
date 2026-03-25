@@ -20,7 +20,7 @@ items:
       name: Steam Controller
       src: src/img/steam-controller.png
     - link: https://skinarma.com/products/dyno-ve-handstrap-with-charging-cable
-      realized: false
+      realized: true
       name: Dyno VE
       src: src/img/dyno-ve.jpg
     - link: https://store.steampowered.com/sale/steamframe
@@ -35,8 +35,12 @@ items:
       realized: false
       name: Busy Bar
       src: src/img/busy-bar.jpg
-    - link: https://www.8bitdo.com/ultimate-bluetooth-controller/
+    - link: https://crkd.gg/products/ult-pro-smoke-black-switch
       realized: false
+      name: Ult Pro
+      src: src/img/ult-pro.png
+    - link: https://www.8bitdo.com/ultimate-bluetooth-controller/
+      realized: true
       name: 8BitDo Ultimate Bluetooth Controller
       src: src/img/8bitdo-ultimate-bluetooth-controller.jpg
     - link: https://eu.laifentech.com/products/laifen-p3-pro-3-blade-electric-shaver-with-linear-motor?variant=51787680579889
