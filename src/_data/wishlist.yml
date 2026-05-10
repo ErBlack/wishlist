@@ -27,6 +27,10 @@ items:
       realized: false
       name: Steam Frame
       src: src/img/steam-frame.jpg
+    - link: https://www.matadorequipment.com/products/blackout-travel-pillow
+      realized: false
+      name: Blackout Travel Pillow
+      src: src/img/blackout-travel-pillow.jpg
     - link: https://hototools.com/products/snapbloq
       realized: false
       name: SNAPBLOQ
