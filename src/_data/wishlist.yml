@@ -68,7 +68,7 @@ items:
       name: PowerKeyboard
       src: src/img/clicks-powerkeyboard.png
     - link: https://www.xreal.com/one-pro
-      realized: false
+      realized: true
       name: XREAL One Pro
       src: src/img/xreal-one-pro.png
     - link: https://gundamsrbija.com/products/rg-1144-00-raiser-
