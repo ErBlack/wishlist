@@ -1,4 +1,8 @@
 items:
+    - link: https://www.insta360.com/product/insta360-luna-ultra
+      realized: false
+      name: Luna Ultra
+      src: src/img/insta360-luna-ultra.jpg
     - link: https://www.genkithings.com/products/force-field-2?variant=42025278668874
       realized: true
       name: Force Field 2
@@ -328,7 +332,7 @@ items:
       name: Сидр Bullevie
       src: src/img/сидр-bullevie.jpg
     - link: https://store.analogue.co/
-      realized: false
+      realized: true
       name: Analogue Pocket
       src: src/img/analogue-pocket.png
     - link: https://store.dji.com/product/dji-mic-2
