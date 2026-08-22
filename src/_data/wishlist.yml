@@ -15,6 +15,10 @@ items:
       realized: false
       name: Basix Nova Carabiner
       src: src/img/basix-nova-carabiner.png
+    - link: https://carryu.com/en-eu/products/bundle-securite-lockup%E2%84%A2-kit-telephone-anti-vol-mains-libres-4-en-2
+      realized: false
+      name: LOCKÜP
+      src: src/img/locküp.png
     - link: https://www.nintendo.com/us/gaming-systems/switch-2/
       realized: true
       name: Nintendo Switch 2
