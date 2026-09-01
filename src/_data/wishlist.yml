@@ -51,6 +51,10 @@ items:
       realized: false
       name: Ult Pro
       src: src/img/ult-pro.png
+    - link: https://www.sfbags.com/collections/cityslicker-vintage-sizes/products/cityslicker-case-2dsxl-3dsxl-3ds-2025
+      realized: true
+      name: Cityslicker Case
+      src: src/img/cityslicker-case.jpg
     - link: https://www.8bitdo.com/ultimate-bluetooth-controller/
       realized: true
       name: 8BitDo Ultimate Bluetooth Controller
