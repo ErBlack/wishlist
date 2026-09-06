@@ -31,6 +31,10 @@ items:
       realized: true
       name: Dyno VE
       src: src/img/dyno-ve.jpg
+    - link: https://www.mueller.de/p/jumbo-spiele-hitster-wacken-open-air-germany-PPN3211597/
+      realized: false
+      name: Hitster WOA
+      src: src/img/hitster-woa.png
     - link: https://store.steampowered.com/sale/steamframe
       realized: false
       name: Steam Frame
