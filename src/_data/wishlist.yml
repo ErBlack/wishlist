@@ -8,7 +8,7 @@ items:
       name: Force Field 2
       src: src/img/force-field-2.webp
     - link: https://www.codeofbell.com/collections/accessories/products/annex-pouch-attachable-organizer
-      realized: false
+      realized: true
       name: Annex Pouch
       src: src/img/annex-pouch.png
     - link: https://store.steampowered.com/sale/steammachine
@@ -16,7 +16,7 @@ items:
       name: Steam Machine
       src: src/img/steam-machine.jpg
     - link: https://www.codeofbell.com/products/basix-nova-carabiner
-      realized: false
+      realized: true
       name: Basix Nova Carabiner
       src: src/img/basix-nova-carabiner.png
     - link: https://carryu.com/en-eu/products/bundle-securite-lockup%E2%84%A2-kit-telephone-anti-vol-mains-libres-4-en-2
