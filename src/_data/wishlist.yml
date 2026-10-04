@@ -115,8 +115,12 @@ items:
       realized: false
       name: Energy Pack
       src: src/img/energy-pack.webp
-    - link: https://shokz.com/products/opendots-one
+    - link: https://shokz.com/products/opendots-2?variant=45082051313864
       realized: false
+      name: OpenDots 2
+      src: src/img/opendots-2.webp
+    - link: https://shokz.com/products/opendots-one
+      realized: true
       name: OpenDots One
       src: src/img/opendots-one.webp
     - link: https://www.bitmapbooks.com/collections/all-books/products/the-crpg-book-a-guide-to-computer-role-playing-games
@@ -183,8 +187,12 @@ items:
       realized: false
       name: Neo S Orange Zest Edition
       src: src/img/neo-s-orange-zest-edition.jpg
-    - link: https://store.dji.com/product/dji-avata-2
+    - link: https://www.dji.com/global/mini-5-pro
       realized: false
+      name: Mini 5 Pro
+      src: src/img/mini-5-pro.png
+    - link: https://store.dji.com/product/dji-avata-2
+      realized: true
       name: DJI Avata 2
       src: src/img/dji-avata-2.png
     - link: https://www.rabbit.tech/rabbit-r1
