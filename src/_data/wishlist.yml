@@ -84,7 +84,7 @@ items:
       name: PixaPresso
       src: src/img/pixapresso.png
     - link: https://www.clicks.tech/en/products/powerkeyboard
-      realized: false
+      realized: true
       name: PowerKeyboard
       src: src/img/clicks-powerkeyboard.png
     - link: https://www.xreal.com/one-pro
