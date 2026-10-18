@@ -128,7 +128,7 @@ items:
       name: The CRPG Book
       src: src/img/the-crpg-book.jpg
     - link: https://shokz.com/products/openrunpro2
-      realized: false
+      realized: true
       name: OpenRun Pro 2
       src: src/img/openrun-pro-2.webp
     - link: https://store.repebble.com/
@@ -140,7 +140,7 @@ items:
       name: Hermetic Dry Bag Multi
       src: src/img/hermetic-dry-bag-multi.jpg
     - link: https://shop.boox.com/products/palma2
-      realized: false
+      realized: truer
       name: Palma 2
       src: src/img/palma-2.png
     - link: https://teenage.engineering/store/ep-133
@@ -268,7 +268,7 @@ items:
       name: DualSense Edge
       src: src/img/dualsense-edge.jpg
     - link: https://rog.asus.com/laptops/rog-flow/rog-flow-z13-acrnm-rmt02/
-      realized: false
+      realized: true
       name: Rog Flow Z13-ACRNM RMT02
       src: src/img/rog-flow-z13-acrnm-rmt02.jpg
     - link: https://pen.tips/collections/products/products/penmat?variant=43000769544439
@@ -308,7 +308,7 @@ items:
       name: iPhone 14 Pro
       src: src/img/iphone-14-pro.jpg
     - link: https://evergoods.us/products/civic-access-pouch-2l
-      realized: false
+      realized: true
       name: Civic Access Pouch 2L
       src: src/img/civic-access-pouch-2l.png
     - link: https://www.hugoboss.com/us/3-fl.-oz.-90-ml-eau-de-toilette-hugo-element/737052232195.html
@@ -368,7 +368,7 @@ items:
       name: Orbitkey Nest
       src: src/img/orbitkey-nest.jpg
     - link: https://www.orbitkey.eu/collections/orbitkey-nest/products/nest-v2
-      realized: false
+      realized: true
       name: Orbitkey Nest V2
       src: src/img/orbitkey-nest-v2.jpg
     - link: https://store.dji.com/product/pocket-2?vid=98631
