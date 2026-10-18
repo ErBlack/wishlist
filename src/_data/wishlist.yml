@@ -388,7 +388,7 @@ items:
       name: Steam Deck
       src: src/img/steam-deck.jpg
     - link: https://rog.asus.com/power-protection-gadgets/chargers-and-adapters/rog-bulwark-dock-2025-dg300/
-      realized: false
+      realized: true
       name: Bulwark Dock
       src: src/img/bulwark-dock.jpg
     - link: https://www.steamdeck.com/dock
