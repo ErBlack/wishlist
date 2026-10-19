@@ -112,7 +112,7 @@ items:
       name: Fractal Design Scape
       src: src/img/fractal-design-scape.jpg
     - link: https://www.genkithings.com/products/energy-pack
-      realized: false
+      realized: true
       name: Energy Pack
       src: src/img/energy-pack.webp
     - link: https://shokz.com/products/opendots-2?variant=45082051313864
