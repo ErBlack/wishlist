@@ -1,4 +1,12 @@
 items:
+    - link: https://ember.com/products/ember-mug-3?variant=47905481359545&view=mug3-16oz
+      realized: false
+      name: Ember Mug³
+      src: src/img/ember-mug³.png
+    - link: https://worklouder.cc/creator-micro-2
+      realized: false
+      name: Creator Micro 2
+      src: src/img/creator-micro-2.png
     - link: https://www.insta360.com/product/insta360-luna-ultra
       realized: false
       name: Luna Ultra
@@ -256,7 +264,7 @@ items:
       name: Nitecore EDC27
       src: src/img/nitecore-edc27.png
     - link: https://worklouder.cc/framer-creator-micro
-      realized: false
+      realized: true
       name: Framer Creator Micro
       src: src/img/framer-creator-micro.png
     - link: https://worklouder.cc/creator-micro/
