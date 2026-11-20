@@ -3,6 +3,10 @@ items:
       realized: false
       name: Ember Mug³
       src: src/img/ember-mug³.png
+    - link: https://www.kickstarter.com/projects/keytron/keychron-orca-echo-split-keyboard-with-built-in-trackball
+      realized: false
+      name: Orca Echo
+      src: src/img/orca-echo.jpg
     - link: https://worklouder.cc/creator-micro-2
       realized: false
       name: Creator Micro 2
@@ -140,7 +144,7 @@ items:
       name: OpenRun Pro 2
       src: src/img/openrun-pro-2.webp
     - link: https://store.repebble.com/
-      realized: false
+      realized: true
       name: Pebble Time 2
       src: src/img/pebble-time-2.jpeg
     - link: https://www.fidlock.com/consumer/en/hermetic-dry-bag-multi/d-14224a
